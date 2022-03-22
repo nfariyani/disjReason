@@ -1,0 +1,1001 @@
+idx,is_inclusive,premise,question,label
+1,1,Krystal is well-rounded or Laken is short-tempered. Laken is short-tempered.,Krystal is well-rounded,1
+2,1,Krystal is well-rounded or Laken is short-tempered. Laken is short-tempered.,Krystal is not well-rounded,1
+3,1,Krystal is well-rounded or Laken is short-tempered. Laken is short-tempered.,Laken is short-tempered,1
+4,1,Krystal is well-rounded or Laken is short-tempered. Laken is short-tempered.,Laken is not short-tempered,0
+5,1,Lacey is not below average or Nia is not warmhearted. Lacey is not below average.,Lacey is below,0
+6,1,Lacey is not below average or Nia is not warmhearted. Lacey is not below average.,Lacey is not below average,1
+7,1,Lacey is not below average or Nia is not warmhearted. Lacey is not below average.,Nia is warmhearted,1
+8,1,Lacey is not below average or Nia is not warmhearted. Lacey is not below average.,Nia is not warmhearted,1
+9,0,Either Jane is well-rounded or Sadie is not inconsiderate. Jane is not well-rounded.,Jane is well-rounded,0
+10,0,Either Jane is well-rounded or Sadie is not inconsiderate. Jane is not well-rounded.,Jane is not well-rounded,1
+11,0,Either Jane is well-rounded or Sadie is not inconsiderate. Jane is not well-rounded.,Sadie is inconsiderate,0
+12,0,Either Jane is well-rounded or Sadie is not inconsiderate. Jane is not well-rounded.,Sadie is not inconsiderate,1
+13,0,Either Amy is level-headed or Anna is not below average. Amy is not level-headed.,Amy is level-headed,0
+14,0,Either Amy is level-headed or Anna is not below average. Amy is not level-headed.,Amy is not level-headed,1
+15,0,Either Amy is level-headed or Anna is not below average. Amy is not level-headed.,Anna is below,0
+16,0,Either Amy is level-headed or Anna is not below average. Amy is not level-headed.,Anna is not below average,1
+17,0,Either Lesly is indefatigable or Zaria is not supercilious. Lesly is indefatigable.,Lesly is indefatigable,1
+18,0,Either Lesly is indefatigable or Zaria is not supercilious. Lesly is indefatigable.,Lesly is not indefatigable,0
+19,0,Either Lesly is indefatigable or Zaria is not supercilious. Lesly is indefatigable.,Zaria is supercilious,1
+20,0,Either Lesly is indefatigable or Zaria is not supercilious. Lesly is indefatigable.,Zaria is not supercilious,0
+21,0,Either Madelyn is well-intentioned or Candace is absent-minded. Madelyn is not well-intentioned.,Madelyn is well-intentioned,0
+22,0,Either Madelyn is well-intentioned or Candace is absent-minded. Madelyn is not well-intentioned.,Madelyn is not well-intentioned,1
+23,0,Either Madelyn is well-intentioned or Candace is absent-minded. Madelyn is not well-intentioned.,Candace is absent-minded,1
+24,0,Either Madelyn is well-intentioned or Candace is absent-minded. Madelyn is not well-intentioned.,Candace is not absent-minded,0
+25,0,Either Clare is not conscientious or Yoselin is quick-tempered. Yoselin is not quick-tempered.,Clare is conscientious,0
+26,0,Either Clare is not conscientious or Yoselin is quick-tempered. Yoselin is not quick-tempered.,Clare is not conscientious,1
+27,0,Either Clare is not conscientious or Yoselin is quick-tempered. Yoselin is not quick-tempered.,Yoselin is quick-tempered,0
+28,0,Either Clare is not conscientious or Yoselin is quick-tempered. Yoselin is not quick-tempered.,Yoselin is not quick-tempered,1
+29,1,Crystal is even-tempered or Myah is not inconsiderate. Myah is inconsiderate.,Crystal is even-tempered,1
+30,1,Crystal is even-tempered or Myah is not inconsiderate. Myah is inconsiderate.,Crystal is not even-tempered,0
+31,1,Crystal is even-tempered or Myah is not inconsiderate. Myah is inconsiderate.,Myah is inconsiderate,1
+32,1,Crystal is even-tempered or Myah is not inconsiderate. Myah is inconsiderate.,Myah is not inconsiderate,0
+33,0,Either Cristina is imperturbable or Beatrice is not even-tempered. Cristina is imperturbable.,Cristina is imperturbable,1
+34,0,Either Cristina is imperturbable or Beatrice is not even-tempered. Cristina is imperturbable.,Cristina is not imperturbable,0
+35,0,Either Cristina is imperturbable or Beatrice is not even-tempered. Cristina is imperturbable.,Beatrice is even-tempered,1
+36,0,Either Cristina is imperturbable or Beatrice is not even-tempered. Cristina is imperturbable.,Beatrice is not even-tempered,0
+37,0,Either Nicolette is conscientious or Mckenzie is enterprising. Mckenzie is not enterprising.,Nicolette is conscientious,1
+38,0,Either Nicolette is conscientious or Mckenzie is enterprising. Mckenzie is not enterprising.,Nicolette is not conscientious,0
+39,0,Either Nicolette is conscientious or Mckenzie is enterprising. Mckenzie is not enterprising.,Mckenzie is enterprising,0
+40,0,Either Nicolette is conscientious or Mckenzie is enterprising. Mckenzie is not enterprising.,Mckenzie is not enterprising,1
+41,0,Either Ivette is absent-minded or Jaqueline is absent-minded. Ivette is not absent-minded.,Ivette is absent-minded,0
+42,0,Either Ivette is absent-minded or Jaqueline is absent-minded. Ivette is not absent-minded.,Ivette is not absent-minded,1
+43,0,Either Ivette is absent-minded or Jaqueline is absent-minded. Ivette is not absent-minded.,Jaqueline is absent-minded,1
+44,0,Either Ivette is absent-minded or Jaqueline is absent-minded. Ivette is not absent-minded.,Jaqueline is not absent-minded,0
+45,1,Karlie is conscientious or Ariana is well-rounded. Ariana is not well-rounded.,Karlie is conscientious,1
+46,1,Karlie is conscientious or Ariana is well-rounded. Ariana is not well-rounded.,Karlie is not conscientious,0
+47,1,Karlie is conscientious or Ariana is well-rounded. Ariana is not well-rounded.,Ariana is well-rounded,0
+48,1,Karlie is conscientious or Ariana is well-rounded. Ariana is not well-rounded.,Ariana is not well-rounded,1
+49,1,Alyvia is not level-headed or Linda is not unimaginative. Alyvia is not level-headed.,Alyvia is level-headed,0
+50,1,Alyvia is not level-headed or Linda is not unimaginative. Alyvia is not level-headed.,Alyvia is not level-headed,1
+51,1,Alyvia is not level-headed or Linda is not unimaginative. Alyvia is not level-headed.,Linda is unimaginative,1
+52,1,Alyvia is not level-headed or Linda is not unimaginative. Alyvia is not level-headed.,Linda is not unimaginative,1
+53,1,Camila is not warmhearted or Angelica is inconsiderate. Camila is not warmhearted.,Camila is warmhearted,0
+54,1,Camila is not warmhearted or Angelica is inconsiderate. Camila is not warmhearted.,Camila is not warmhearted,1
+55,1,Camila is not warmhearted or Angelica is inconsiderate. Camila is not warmhearted.,Angelica is inconsiderate,1
+56,1,Camila is not warmhearted or Angelica is inconsiderate. Camila is not warmhearted.,Angelica is not inconsiderate,1
+57,1,Krystina is not unmotivated or Akira is not impressionable. Krystina is unmotivated.,Krystina is unmotivated,1
+58,1,Krystina is not unmotivated or Akira is not impressionable. Krystina is unmotivated.,Krystina is not unmotivated,0
+59,1,Krystina is not unmotivated or Akira is not impressionable. Krystina is unmotivated.,Akira is impressionable,0
+60,1,Krystina is not unmotivated or Akira is not impressionable. Krystina is unmotivated.,Akira is not impressionable,1
+61,0,Either Lauren is not disagreeable or Robyn is affectionate. Robyn is not affectionate.,Lauren is disagreeable,0
+62,0,Either Lauren is not disagreeable or Robyn is affectionate. Robyn is not affectionate.,Lauren is not disagreeable,1
+63,0,Either Lauren is not disagreeable or Robyn is affectionate. Robyn is not affectionate.,Robyn is affectionate,0
+64,0,Either Lauren is not disagreeable or Robyn is affectionate. Robyn is not affectionate.,Robyn is not affectionate,1
+65,0,Either Bethany is impressionable or Luisa is imperturbable. Bethany is impressionable.,Bethany is impressionable,1
+66,0,Either Bethany is impressionable or Luisa is imperturbable. Bethany is impressionable.,Bethany is not impressionable,0
+67,0,Either Bethany is impressionable or Luisa is imperturbable. Bethany is impressionable.,Luisa is imperturbable,0
+68,0,Either Bethany is impressionable or Luisa is imperturbable. Bethany is impressionable.,Luisa is not imperturbable,1
+69,1,Cynthia is even-tempered or Miranda is not conscientious. Cynthia is not even-tempered.,Cynthia is even-tempered,0
+70,1,Cynthia is even-tempered or Miranda is not conscientious. Cynthia is not even-tempered.,Cynthia is not even-tempered,1
+71,1,Cynthia is even-tempered or Miranda is not conscientious. Cynthia is not even-tempered.,Miranda is conscientious,0
+72,1,Cynthia is even-tempered or Miranda is not conscientious. Cynthia is not even-tempered.,Miranda is not conscientious,1
+73,0,Either Shayna is not short-tempered or Angelique is hypercritical. Shayna is not short-tempered.,Shayna is short-tempered,0
+74,0,Either Shayna is not short-tempered or Angelique is hypercritical. Shayna is not short-tempered.,Shayna is not short-tempered,1
+75,0,Either Shayna is not short-tempered or Angelique is hypercritical. Shayna is not short-tempered.,Angelique is hypercritical,0
+76,0,Either Shayna is not short-tempered or Angelique is hypercritical. Shayna is not short-tempered.,Angelique is not hypercritical,1
+77,0,Either Lena is not well-behaved or Dixie is not unmotivated. Dixie is unmotivated.,Lena is well-behaved,0
+78,0,Either Lena is not well-behaved or Dixie is not unmotivated. Dixie is unmotivated.,Lena is not well-behaved,1
+79,0,Either Lena is not well-behaved or Dixie is not unmotivated. Dixie is unmotivated.,Dixie is unmotivated,1
+80,0,Either Lena is not well-behaved or Dixie is not unmotivated. Dixie is unmotivated.,Dixie is not unmotivated,0
+81,0,Either Elle is sophisticated or Maeve is condescending. Elle is sophisticated.,Elle is sophisticated,1
+82,0,Either Elle is sophisticated or Maeve is condescending. Elle is sophisticated.,Elle is not sophisticated,0
+83,0,Either Elle is sophisticated or Maeve is condescending. Elle is sophisticated.,Maeve is condescending,0
+84,0,Either Elle is sophisticated or Maeve is condescending. Elle is sophisticated.,Maeve is not condescending,1
+85,1,Brook is not inconsiderate or Tameka is not plain-speaking. Tameka is not plain-speaking.,Brook is inconsiderate,1
+86,1,Brook is not inconsiderate or Tameka is not plain-speaking. Tameka is not plain-speaking.,Brook is not inconsiderate,1
+87,1,Brook is not inconsiderate or Tameka is not plain-speaking. Tameka is not plain-speaking.,Tameka is plain-speaking,0
+88,1,Brook is not inconsiderate or Tameka is not plain-speaking. Tameka is not plain-speaking.,Tameka is not plain-speaking,1
+89,0,Either Kristin is not cantankerous or Kalyn is not undependable. Kristin is cantankerous.,Kristin is cantankerous,1
+90,0,Either Kristin is not cantankerous or Kalyn is not undependable. Kristin is cantankerous.,Kristin is not cantankerous,0
+91,0,Either Kristin is not cantankerous or Kalyn is not undependable. Kristin is cantankerous.,Kalyn is undependable,0
+92,0,Either Kristin is not cantankerous or Kalyn is not undependable. Kristin is cantankerous.,Kalyn is not undependable,1
+93,1,Lucero is even-tempered or Candice is not uncooperative. Candice is not uncooperative.,Lucero is even-tempered,1
+94,1,Lucero is even-tempered or Candice is not uncooperative. Candice is not uncooperative.,Lucero is not even-tempered,1
+95,1,Lucero is even-tempered or Candice is not uncooperative. Candice is not uncooperative.,Candice is uncooperative,0
+96,1,Lucero is even-tempered or Candice is not uncooperative. Candice is not uncooperative.,Candice is not uncooperative,1
+97,1,Taryn is not quick-tempered or Anahi is not above average. Anahi is not above average.,Taryn is quick-tempered,1
+98,1,Taryn is not quick-tempered or Anahi is not above average. Anahi is not above average.,Taryn is not quick-tempered,1
+99,1,Taryn is not quick-tempered or Anahi is not above average. Anahi is not above average.,Anahi is above,0
+100,1,Taryn is not quick-tempered or Anahi is not above average. Anahi is not above average.,Anahi is not above average,1
+101,0,Either Reese is not affectionate or Ebony is not ostentatious. Reese is affectionate.,Reese is affectionate,1
+102,0,Either Reese is not affectionate or Ebony is not ostentatious. Reese is affectionate.,Reese is not affectionate,0
+103,0,Either Reese is not affectionate or Ebony is not ostentatious. Reese is affectionate.,Ebony is ostentatious,0
+104,0,Either Reese is not affectionate or Ebony is not ostentatious. Reese is affectionate.,Ebony is not ostentatious,1
+105,0,Either Destini is not imperturbable or Leah is not inconsistent. Destini is not imperturbable.,Destini is imperturbable,0
+106,0,Either Destini is not imperturbable or Leah is not inconsistent. Destini is not imperturbable.,Destini is not imperturbable,1
+107,0,Either Destini is not imperturbable or Leah is not inconsistent. Destini is not imperturbable.,Leah is inconsistent,1
+108,0,Either Destini is not imperturbable or Leah is not inconsistent. Destini is not imperturbable.,Leah is not inconsistent,0
+109,0,Either Lorelei is well-intentioned or Maya is unmotivated. Maya is not unmotivated.,Lorelei is well-intentioned,1
+110,0,Either Lorelei is well-intentioned or Maya is unmotivated. Maya is not unmotivated.,Lorelei is not well-intentioned,0
+111,0,Either Lorelei is well-intentioned or Maya is unmotivated. Maya is not unmotivated.,Maya is unmotivated,0
+112,0,Either Lorelei is well-intentioned or Maya is unmotivated. Maya is not unmotivated.,Maya is not unmotivated,1
+113,1,Madeleine is not supercilious or Danika is not plain-speaking. Danika is plain-speaking.,Madeleine is supercilious,0
+114,1,Madeleine is not supercilious or Danika is not plain-speaking. Danika is plain-speaking.,Madeleine is not supercilious,1
+115,1,Madeleine is not supercilious or Danika is not plain-speaking. Danika is plain-speaking.,Danika is plain-speaking,1
+116,1,Madeleine is not supercilious or Danika is not plain-speaking. Danika is plain-speaking.,Danika is not plain-speaking,0
+117,1,Amanda is not disagreeable or Fabiola is inexperienced. Amanda is not disagreeable.,Amanda is disagreeable,0
+118,1,Amanda is not disagreeable or Fabiola is inexperienced. Amanda is not disagreeable.,Amanda is not disagreeable,1
+119,1,Amanda is not disagreeable or Fabiola is inexperienced. Amanda is not disagreeable.,Fabiola is inexperienced,1
+120,1,Amanda is not disagreeable or Fabiola is inexperienced. Amanda is not disagreeable.,Fabiola is not inexperienced,1
+121,0,Either Selina is sophisticated or Stephany is unmotivated. Selina is not sophisticated.,Selina is sophisticated,0
+122,0,Either Selina is sophisticated or Stephany is unmotivated. Selina is not sophisticated.,Selina is not sophisticated,1
+123,0,Either Selina is sophisticated or Stephany is unmotivated. Selina is not sophisticated.,Stephany is unmotivated,1
+124,0,Either Selina is sophisticated or Stephany is unmotivated. Selina is not sophisticated.,Stephany is not unmotivated,0
+125,0,Either Adison is inexperienced or Makena is not even-tempered. Makena is even-tempered.,Adison is inexperienced,1
+126,0,Either Adison is inexperienced or Makena is not even-tempered. Makena is even-tempered.,Adison is not inexperienced,0
+127,0,Either Adison is inexperienced or Makena is not even-tempered. Makena is even-tempered.,Makena is even-tempered,1
+128,0,Either Adison is inexperienced or Makena is not even-tempered. Makena is even-tempered.,Makena is not even-tempered,0
+129,1,Christine is not enterprising or Carissa is not well-developed. Christine is not enterprising.,Christine is enterprising,0
+130,1,Christine is not enterprising or Carissa is not well-developed. Christine is not enterprising.,Christine is not enterprising,1
+131,1,Christine is not enterprising or Carissa is not well-developed. Christine is not enterprising.,Carissa is well-developed,1
+132,1,Christine is not enterprising or Carissa is not well-developed. Christine is not enterprising.,Carissa is not well-developed,1
+133,0,Either Noel is not level-headed or Gladys is affectionate. Gladys is affectionate.,Noel is level-headed,1
+134,0,Either Noel is not level-headed or Gladys is affectionate. Gladys is affectionate.,Noel is not level-headed,0
+135,0,Either Noel is not level-headed or Gladys is affectionate. Gladys is affectionate.,Gladys is affectionate,1
+136,0,Either Noel is not level-headed or Gladys is affectionate. Gladys is affectionate.,Gladys is not affectionate,0
+137,1,Jana is not imperturbable or Heather is warmhearted. Heather is warmhearted.,Jana is imperturbable,1
+138,1,Jana is not imperturbable or Heather is warmhearted. Heather is warmhearted.,Jana is not imperturbable,1
+139,1,Jana is not imperturbable or Heather is warmhearted. Heather is warmhearted.,Heather is warmhearted,1
+140,1,Jana is not imperturbable or Heather is warmhearted. Heather is warmhearted.,Heather is not warmhearted,0
+141,1,Kamryn is not self-assured or Charlize is quick-tempered. Charlize is not quick-tempered.,Kamryn is self-assured,0
+142,1,Kamryn is not self-assured or Charlize is quick-tempered. Charlize is not quick-tempered.,Kamryn is not self-assured,1
+143,1,Kamryn is not self-assured or Charlize is quick-tempered. Charlize is not quick-tempered.,Charlize is quick-tempered,0
+144,1,Kamryn is not self-assured or Charlize is quick-tempered. Charlize is not quick-tempered.,Charlize is not quick-tempered,1
+145,0,Either Cali is not level-headed or Audrey is inconsiderate. Cali is not level-headed.,Cali is level-headed,0
+146,0,Either Cali is not level-headed or Audrey is inconsiderate. Cali is not level-headed.,Cali is not level-headed,1
+147,0,Either Cali is not level-headed or Audrey is inconsiderate. Cali is not level-headed.,Audrey is inconsiderate,0
+148,0,Either Cali is not level-headed or Audrey is inconsiderate. Cali is not level-headed.,Audrey is not inconsiderate,1
+149,0,Either Taliyah is unimaginative or Rachael is not below average. Taliyah is unimaginative.,Taliyah is unimaginative,1
+150,0,Either Taliyah is unimaginative or Rachael is not below average. Taliyah is unimaginative.,Taliyah is not unimaginative,0
+151,0,Either Taliyah is unimaginative or Rachael is not below average. Taliyah is unimaginative.,Rachael is below,1
+152,0,Either Taliyah is unimaginative or Rachael is not below average. Taliyah is unimaginative.,Rachael is not below average,0
+153,1,Tiffany is disagreeable or Lena is old-fashioned. Tiffany is disagreeable.,Tiffany is disagreeable,1
+154,1,Tiffany is disagreeable or Lena is old-fashioned. Tiffany is disagreeable.,Tiffany is not disagreeable,0
+155,1,Tiffany is disagreeable or Lena is old-fashioned. Tiffany is disagreeable.,Lena is old-fashioned,1
+156,1,Tiffany is disagreeable or Lena is old-fashioned. Tiffany is disagreeable.,Lena is not old-fashioned,1
+157,0,Either Destiney is not enterprising or Laurel is short-tempered. Laurel is short-tempered.,Destiney is enterprising,1
+158,0,Either Destiney is not enterprising or Laurel is short-tempered. Laurel is short-tempered.,Destiney is not enterprising,0
+159,0,Either Destiney is not enterprising or Laurel is short-tempered. Laurel is short-tempered.,Laurel is short-tempered,1
+160,0,Either Destiney is not enterprising or Laurel is short-tempered. Laurel is short-tempered.,Laurel is not short-tempered,0
+161,0,Either Esther is not enthusiastic or Jesica is not uncooperative. Jesica is not uncooperative.,Esther is enthusiastic,1
+162,0,Either Esther is not enthusiastic or Jesica is not uncooperative. Jesica is not uncooperative.,Esther is not enthusiastic,0
+163,0,Either Esther is not enthusiastic or Jesica is not uncooperative. Jesica is not uncooperative.,Jesica is uncooperative,0
+164,0,Either Esther is not enthusiastic or Jesica is not uncooperative. Jesica is not uncooperative.,Jesica is not uncooperative,1
+165,0,Either Alexandra is indefatigable or Alisha is not sophisticated. Alexandra is not indefatigable.,Alexandra is indefatigable,0
+166,0,Either Alexandra is indefatigable or Alisha is not sophisticated. Alexandra is not indefatigable.,Alexandra is not indefatigable,1
+167,0,Either Alexandra is indefatigable or Alisha is not sophisticated. Alexandra is not indefatigable.,Alisha is sophisticated,0
+168,0,Either Alexandra is indefatigable or Alisha is not sophisticated. Alexandra is not indefatigable.,Alisha is not sophisticated,1
+169,0,Either Maleah is not undependable or Kristy is not quick-tempered. Maleah is undependable.,Maleah is undependable,1
+170,0,Either Maleah is not undependable or Kristy is not quick-tempered. Maleah is undependable.,Maleah is not undependable,0
+171,0,Either Maleah is not undependable or Kristy is not quick-tempered. Maleah is undependable.,Kristy is quick-tempered,0
+172,0,Either Maleah is not undependable or Kristy is not quick-tempered. Maleah is undependable.,Kristy is not quick-tempered,1
+173,0,Either Carla is condescending or Octavia is not well-rounded. Octavia is well-rounded.,Carla is condescending,1
+174,0,Either Carla is condescending or Octavia is not well-rounded. Octavia is well-rounded.,Carla is not condescending,0
+175,0,Either Carla is condescending or Octavia is not well-rounded. Octavia is well-rounded.,Octavia is well-rounded,1
+176,0,Either Carla is condescending or Octavia is not well-rounded. Octavia is well-rounded.,Octavia is not well-rounded,0
+177,1,Cathy is even-tempered or Candice is unimaginative. Cathy is even-tempered.,Cathy is even-tempered,1
+178,1,Cathy is even-tempered or Candice is unimaginative. Cathy is even-tempered.,Cathy is not even-tempered,0
+179,1,Cathy is even-tempered or Candice is unimaginative. Cathy is even-tempered.,Candice is unimaginative,1
+180,1,Cathy is even-tempered or Candice is unimaginative. Cathy is even-tempered.,Candice is not unimaginative,1
+181,0,Either Chelsey is conscientious or Mckenna is not unimaginative. Mckenna is unimaginative.,Chelsey is conscientious,1
+182,0,Either Chelsey is conscientious or Mckenna is not unimaginative. Mckenna is unimaginative.,Chelsey is not conscientious,0
+183,0,Either Chelsey is conscientious or Mckenna is not unimaginative. Mckenna is unimaginative.,Mckenna is unimaginative,1
+184,0,Either Chelsey is conscientious or Mckenna is not unimaginative. Mckenna is unimaginative.,Mckenna is not unimaginative,0
+185,0,Either Zara is not indefatigable or Joselyn is not conscientious. Joselyn is conscientious.,Zara is indefatigable,0
+186,0,Either Zara is not indefatigable or Joselyn is not conscientious. Joselyn is conscientious.,Zara is not indefatigable,1
+187,0,Either Zara is not indefatigable or Joselyn is not conscientious. Joselyn is conscientious.,Joselyn is conscientious,1
+188,0,Either Zara is not indefatigable or Joselyn is not conscientious. Joselyn is conscientious.,Joselyn is not conscientious,0
+189,1,Tina is affectionate or Corina is enterprising. Tina is not affectionate.,Tina is affectionate,0
+190,1,Tina is affectionate or Corina is enterprising. Tina is not affectionate.,Tina is not affectionate,1
+191,1,Tina is affectionate or Corina is enterprising. Tina is not affectionate.,Corina is enterprising,1
+192,1,Tina is affectionate or Corina is enterprising. Tina is not affectionate.,Corina is not enterprising,0
+193,0,Either Candace is short-tempered or Janel is uncooperative. Janel is uncooperative.,Candace is short-tempered,0
+194,0,Either Candace is short-tempered or Janel is uncooperative. Janel is uncooperative.,Candace is not short-tempered,1
+195,0,Either Candace is short-tempered or Janel is uncooperative. Janel is uncooperative.,Janel is uncooperative,1
+196,0,Either Candace is short-tempered or Janel is uncooperative. Janel is uncooperative.,Janel is not uncooperative,0
+197,0,Either Theresa is warmhearted or Ashely is not above average. Ashely is above.,Theresa is warmhearted,1
+198,0,Either Theresa is warmhearted or Ashely is not above average. Ashely is above.,Theresa is not warmhearted,0
+199,0,Either Theresa is warmhearted or Ashely is not above average. Ashely is above.,Ashely is above,1
+200,0,Either Theresa is warmhearted or Ashely is not above average. Ashely is above.,Ashely is not above average,0
+201,1,Sydnie is warmhearted or Shelley is not ostentatious. Sydnie is not warmhearted.,Sydnie is warmhearted,0
+202,1,Sydnie is warmhearted or Shelley is not ostentatious. Sydnie is not warmhearted.,Sydnie is not warmhearted,1
+203,1,Sydnie is warmhearted or Shelley is not ostentatious. Sydnie is not warmhearted.,Shelley is ostentatious,0
+204,1,Sydnie is warmhearted or Shelley is not ostentatious. Sydnie is not warmhearted.,Shelley is not ostentatious,1
+205,1,Lee is inexperienced or Iris is not inconsistent. Iris is inconsistent.,Lee is inexperienced,1
+206,1,Lee is inexperienced or Iris is not inconsistent. Iris is inconsistent.,Lee is not inexperienced,0
+207,1,Lee is inexperienced or Iris is not inconsistent. Iris is inconsistent.,Iris is inconsistent,1
+208,1,Lee is inexperienced or Iris is not inconsistent. Iris is inconsistent.,Iris is not inconsistent,0
+209,0,Either Dara is paternalistic or Martha is plain-speaking. Martha is not plain-speaking.,Dara is paternalistic,1
+210,0,Either Dara is paternalistic or Martha is plain-speaking. Martha is not plain-speaking.,Dara is not paternalistic,0
+211,0,Either Dara is paternalistic or Martha is plain-speaking. Martha is not plain-speaking.,Martha is plain-speaking,0
+212,0,Either Dara is paternalistic or Martha is plain-speaking. Martha is not plain-speaking.,Martha is not plain-speaking,1
+213,1,Toni is not unimaginative or Camila is inconsiderate. Toni is not unimaginative.,Toni is unimaginative,0
+214,1,Toni is not unimaginative or Camila is inconsiderate. Toni is not unimaginative.,Toni is not unimaginative,1
+215,1,Toni is not unimaginative or Camila is inconsiderate. Toni is not unimaginative.,Camila is inconsiderate,1
+216,1,Toni is not unimaginative or Camila is inconsiderate. Toni is not unimaginative.,Camila is not inconsiderate,1
+217,0,Either Yvette is not sophisticated or Sarah is inconsistent. Yvette is sophisticated.,Yvette is sophisticated,1
+218,0,Either Yvette is not sophisticated or Sarah is inconsistent. Yvette is sophisticated.,Yvette is not sophisticated,0
+219,0,Either Yvette is not sophisticated or Sarah is inconsistent. Yvette is sophisticated.,Sarah is inconsistent,1
+220,0,Either Yvette is not sophisticated or Sarah is inconsistent. Yvette is sophisticated.,Sarah is not inconsistent,0
+221,1,Rhiannon is even-tempered or Whitney is not inconsiderate. Whitney is inconsiderate.,Rhiannon is even-tempered,1
+222,1,Rhiannon is even-tempered or Whitney is not inconsiderate. Whitney is inconsiderate.,Rhiannon is not even-tempered,0
+223,1,Rhiannon is even-tempered or Whitney is not inconsiderate. Whitney is inconsiderate.,Whitney is inconsiderate,1
+224,1,Rhiannon is even-tempered or Whitney is not inconsiderate. Whitney is inconsiderate.,Whitney is not inconsiderate,0
+225,1,Chelsea is plain-speaking or Erin is well-intentioned. Chelsea is plain-speaking.,Chelsea is plain-speaking,1
+226,1,Chelsea is plain-speaking or Erin is well-intentioned. Chelsea is plain-speaking.,Chelsea is not plain-speaking,0
+227,1,Chelsea is plain-speaking or Erin is well-intentioned. Chelsea is plain-speaking.,Erin is well-intentioned,1
+228,1,Chelsea is plain-speaking or Erin is well-intentioned. Chelsea is plain-speaking.,Erin is not well-intentioned,1
+229,1,Shania is inexperienced or Kaylynn is quick-tempered. Kaylynn is not quick-tempered.,Shania is inexperienced,1
+230,1,Shania is inexperienced or Kaylynn is quick-tempered. Kaylynn is not quick-tempered.,Shania is not inexperienced,0
+231,1,Shania is inexperienced or Kaylynn is quick-tempered. Kaylynn is not quick-tempered.,Kaylynn is quick-tempered,0
+232,1,Shania is inexperienced or Kaylynn is quick-tempered. Kaylynn is not quick-tempered.,Kaylynn is not quick-tempered,1
+233,1,Chelsey is imperturbable or Rochelle is not enthusiastic. Chelsey is not imperturbable.,Chelsey is imperturbable,0
+234,1,Chelsey is imperturbable or Rochelle is not enthusiastic. Chelsey is not imperturbable.,Chelsey is not imperturbable,1
+235,1,Chelsey is imperturbable or Rochelle is not enthusiastic. Chelsey is not imperturbable.,Rochelle is enthusiastic,0
+236,1,Chelsey is imperturbable or Rochelle is not enthusiastic. Chelsey is not imperturbable.,Rochelle is not enthusiastic,1
+237,1,Cheryl is not affectionate or Janet is not enthusiastic. Janet is enthusiastic.,Cheryl is affectionate,0
+238,1,Cheryl is not affectionate or Janet is not enthusiastic. Janet is enthusiastic.,Cheryl is not affectionate,1
+239,1,Cheryl is not affectionate or Janet is not enthusiastic. Janet is enthusiastic.,Janet is enthusiastic,1
+240,1,Cheryl is not affectionate or Janet is not enthusiastic. Janet is enthusiastic.,Janet is not enthusiastic,0
+241,1,Erin is not plain-speaking or Sofia is not supercilious. Sofia is supercilious.,Erin is plain-speaking,0
+242,1,Erin is not plain-speaking or Sofia is not supercilious. Sofia is supercilious.,Erin is not plain-speaking,1
+243,1,Erin is not plain-speaking or Sofia is not supercilious. Sofia is supercilious.,Sofia is supercilious,1
+244,1,Erin is not plain-speaking or Sofia is not supercilious. Sofia is supercilious.,Sofia is not supercilious,0
+245,0,Either Tiara is quick-tempered or Elissa is undependable. Tiara is not quick-tempered.,Tiara is quick-tempered,0
+246,0,Either Tiara is quick-tempered or Elissa is undependable. Tiara is not quick-tempered.,Tiara is not quick-tempered,1
+247,0,Either Tiara is quick-tempered or Elissa is undependable. Tiara is not quick-tempered.,Elissa is undependable,1
+248,0,Either Tiara is quick-tempered or Elissa is undependable. Tiara is not quick-tempered.,Elissa is not undependable,0
+249,0,Either Amber is not old-fashioned or Destini is warmhearted. Amber is old-fashioned.,Amber is old-fashioned,1
+250,0,Either Amber is not old-fashioned or Destini is warmhearted. Amber is old-fashioned.,Amber is not old-fashioned,0
+251,0,Either Amber is not old-fashioned or Destini is warmhearted. Amber is old-fashioned.,Destini is warmhearted,1
+252,0,Either Amber is not old-fashioned or Destini is warmhearted. Amber is old-fashioned.,Destini is not warmhearted,0
+253,1,Tyler is not inconsiderate or Carol is above average. Carol is not above.,Tyler is inconsiderate,0
+254,1,Tyler is not inconsiderate or Carol is above average. Carol is not above.,Tyler is not inconsiderate,1
+255,1,Tyler is not inconsiderate or Carol is above average. Carol is not above.,Carol is above average,0
+256,1,Tyler is not inconsiderate or Carol is above average. Carol is not above.,Carol is not above,1
+257,1,Paige is uncooperative or Ingrid is not impressionable. Ingrid is impressionable.,Paige is uncooperative,1
+258,1,Paige is uncooperative or Ingrid is not impressionable. Ingrid is impressionable.,Paige is not uncooperative,0
+259,1,Paige is uncooperative or Ingrid is not impressionable. Ingrid is impressionable.,Ingrid is impressionable,1
+260,1,Paige is uncooperative or Ingrid is not impressionable. Ingrid is impressionable.,Ingrid is not impressionable,0
+261,1,Stephany is quick-tempered or Ryleigh is indefatigable. Ryleigh is not indefatigable.,Stephany is quick-tempered,1
+262,1,Stephany is quick-tempered or Ryleigh is indefatigable. Ryleigh is not indefatigable.,Stephany is not quick-tempered,0
+263,1,Stephany is quick-tempered or Ryleigh is indefatigable. Ryleigh is not indefatigable.,Ryleigh is indefatigable,0
+264,1,Stephany is quick-tempered or Ryleigh is indefatigable. Ryleigh is not indefatigable.,Ryleigh is not indefatigable,1
+265,0,Either Carissa is affectionate or Loretta is indefatigable. Loretta is indefatigable.,Carissa is affectionate,0
+266,0,Either Carissa is affectionate or Loretta is indefatigable. Loretta is indefatigable.,Carissa is not affectionate,1
+267,0,Either Carissa is affectionate or Loretta is indefatigable. Loretta is indefatigable.,Loretta is indefatigable,1
+268,0,Either Carissa is affectionate or Loretta is indefatigable. Loretta is indefatigable.,Loretta is not indefatigable,0
+269,1,Jalissa is not paternalistic or Savanah is not imperturbable. Savanah is not imperturbable.,Jalissa is paternalistic,1
+270,1,Jalissa is not paternalistic or Savanah is not imperturbable. Savanah is not imperturbable.,Jalissa is not paternalistic,1
+271,1,Jalissa is not paternalistic or Savanah is not imperturbable. Savanah is not imperturbable.,Savanah is imperturbable,0
+272,1,Jalissa is not paternalistic or Savanah is not imperturbable. Savanah is not imperturbable.,Savanah is not imperturbable,1
+273,0,Either Britany is not conscientious or Kiana is not well-developed. Britany is conscientious.,Britany is conscientious,1
+274,0,Either Britany is not conscientious or Kiana is not well-developed. Britany is conscientious.,Britany is not conscientious,0
+275,0,Either Britany is not conscientious or Kiana is not well-developed. Britany is conscientious.,Kiana is well-developed,0
+276,0,Either Britany is not conscientious or Kiana is not well-developed. Britany is conscientious.,Kiana is not well-developed,1
+277,0,Either Ingrid is well-intentioned or Bobbi is enthusiastic. Bobbi is enthusiastic.,Ingrid is well-intentioned,0
+278,0,Either Ingrid is well-intentioned or Bobbi is enthusiastic. Bobbi is enthusiastic.,Ingrid is not well-intentioned,1
+279,0,Either Ingrid is well-intentioned or Bobbi is enthusiastic. Bobbi is enthusiastic.,Bobbi is enthusiastic,1
+280,0,Either Ingrid is well-intentioned or Bobbi is enthusiastic. Bobbi is enthusiastic.,Bobbi is not enthusiastic,0
+281,0,Either Ellie is not well-rounded or Marcela is old-fashioned. Marcela is old-fashioned.,Ellie is well-rounded,1
+282,0,Either Ellie is not well-rounded or Marcela is old-fashioned. Marcela is old-fashioned.,Ellie is not well-rounded,0
+283,0,Either Ellie is not well-rounded or Marcela is old-fashioned. Marcela is old-fashioned.,Marcela is old-fashioned,1
+284,0,Either Ellie is not well-rounded or Marcela is old-fashioned. Marcela is old-fashioned.,Marcela is not old-fashioned,0
+285,0,Either Elise is not absent-minded or Josephine is warmhearted. Elise is not absent-minded.,Elise is absent-minded,0
+286,0,Either Elise is not absent-minded or Josephine is warmhearted. Elise is not absent-minded.,Elise is not absent-minded,1
+287,0,Either Elise is not absent-minded or Josephine is warmhearted. Elise is not absent-minded.,Josephine is warmhearted,0
+288,0,Either Elise is not absent-minded or Josephine is warmhearted. Elise is not absent-minded.,Josephine is not warmhearted,1
+289,0,Either Ebony is not undependable or Mattie is not old-fashioned. Ebony is not undependable.,Ebony is undependable,0
+290,0,Either Ebony is not undependable or Mattie is not old-fashioned. Ebony is not undependable.,Ebony is not undependable,1
+291,0,Either Ebony is not undependable or Mattie is not old-fashioned. Ebony is not undependable.,Mattie is old-fashioned,1
+292,0,Either Ebony is not undependable or Mattie is not old-fashioned. Ebony is not undependable.,Mattie is not old-fashioned,0
+293,1,Helena is not inconsiderate or Janelle is ostentatious. Janelle is not ostentatious.,Helena is inconsiderate,0
+294,1,Helena is not inconsiderate or Janelle is ostentatious. Janelle is not ostentatious.,Helena is not inconsiderate,1
+295,1,Helena is not inconsiderate or Janelle is ostentatious. Janelle is not ostentatious.,Janelle is ostentatious,0
+296,1,Helena is not inconsiderate or Janelle is ostentatious. Janelle is not ostentatious.,Janelle is not ostentatious,1
+297,1,Brianna is not inconsistent or Monika is not unimaginative. Brianna is inconsistent.,Brianna is inconsistent,1
+298,1,Brianna is not inconsistent or Monika is not unimaginative. Brianna is inconsistent.,Brianna is not inconsistent,0
+299,1,Brianna is not inconsistent or Monika is not unimaginative. Brianna is inconsistent.,Monika is unimaginative,0
+300,1,Brianna is not inconsistent or Monika is not unimaginative. Brianna is inconsistent.,Monika is not unimaginative,1
+301,0,Either Maya is not disagreeable or Laura is not cantankerous. Laura is cantankerous.,Maya is disagreeable,0
+302,0,Either Maya is not disagreeable or Laura is not cantankerous. Laura is cantankerous.,Maya is not disagreeable,1
+303,0,Either Maya is not disagreeable or Laura is not cantankerous. Laura is cantankerous.,Laura is cantankerous,1
+304,0,Either Maya is not disagreeable or Laura is not cantankerous. Laura is cantankerous.,Laura is not cantankerous,0
+305,1,Damaris is not old-fashioned or Hana is quick-tempered. Hana is not quick-tempered.,Damaris is old-fashioned,0
+306,1,Damaris is not old-fashioned or Hana is quick-tempered. Hana is not quick-tempered.,Damaris is not old-fashioned,1
+307,1,Damaris is not old-fashioned or Hana is quick-tempered. Hana is not quick-tempered.,Hana is quick-tempered,0
+308,1,Damaris is not old-fashioned or Hana is quick-tempered. Hana is not quick-tempered.,Hana is not quick-tempered,1
+309,0,Either Sara is not enterprising or Brionna is not absent-minded. Brionna is absent-minded.,Sara is enterprising,0
+310,0,Either Sara is not enterprising or Brionna is not absent-minded. Brionna is absent-minded.,Sara is not enterprising,1
+311,0,Either Sara is not enterprising or Brionna is not absent-minded. Brionna is absent-minded.,Brionna is absent-minded,1
+312,0,Either Sara is not enterprising or Brionna is not absent-minded. Brionna is absent-minded.,Brionna is not absent-minded,0
+313,0,Either Jessica is well-rounded or Peyton is not enterprising. Peyton is enterprising.,Jessica is well-rounded,1
+314,0,Either Jessica is well-rounded or Peyton is not enterprising. Peyton is enterprising.,Jessica is not well-rounded,0
+315,0,Either Jessica is well-rounded or Peyton is not enterprising. Peyton is enterprising.,Peyton is enterprising,1
+316,0,Either Jessica is well-rounded or Peyton is not enterprising. Peyton is enterprising.,Peyton is not enterprising,0
+317,0,Either Emilee is hypercritical or Kaylah is old-fashioned. Kaylah is not old-fashioned.,Emilee is hypercritical,1
+318,0,Either Emilee is hypercritical or Kaylah is old-fashioned. Kaylah is not old-fashioned.,Emilee is not hypercritical,0
+319,0,Either Emilee is hypercritical or Kaylah is old-fashioned. Kaylah is not old-fashioned.,Kaylah is old-fashioned,0
+320,0,Either Emilee is hypercritical or Kaylah is old-fashioned. Kaylah is not old-fashioned.,Kaylah is not old-fashioned,1
+321,1,Berenice is warmhearted or Latrice is not well-behaved. Latrice is well-behaved.,Berenice is warmhearted,1
+322,1,Berenice is warmhearted or Latrice is not well-behaved. Latrice is well-behaved.,Berenice is not warmhearted,0
+323,1,Berenice is warmhearted or Latrice is not well-behaved. Latrice is well-behaved.,Latrice is well-behaved,1
+324,1,Berenice is warmhearted or Latrice is not well-behaved. Latrice is well-behaved.,Latrice is not well-behaved,0
+325,1,Karli is cantankerous or Michaela is well-intentioned. Karli is cantankerous.,Karli is cantankerous,1
+326,1,Karli is cantankerous or Michaela is well-intentioned. Karli is cantankerous.,Karli is not cantankerous,0
+327,1,Karli is cantankerous or Michaela is well-intentioned. Karli is cantankerous.,Michaela is well-intentioned,1
+328,1,Karli is cantankerous or Michaela is well-intentioned. Karli is cantankerous.,Michaela is not well-intentioned,1
+329,1,Kerri is not well-rounded or Ayanna is supercilious. Ayanna is supercilious.,Kerri is well-rounded,1
+330,1,Kerri is not well-rounded or Ayanna is supercilious. Ayanna is supercilious.,Kerri is not well-rounded,1
+331,1,Kerri is not well-rounded or Ayanna is supercilious. Ayanna is supercilious.,Ayanna is supercilious,1
+332,1,Kerri is not well-rounded or Ayanna is supercilious. Ayanna is supercilious.,Ayanna is not supercilious,0
+333,1,Marianna is apprehensive or Monica is not even-tempered. Marianna is not apprehensive.,Marianna is apprehensive,0
+334,1,Marianna is apprehensive or Monica is not even-tempered. Marianna is not apprehensive.,Marianna is not apprehensive,1
+335,1,Marianna is apprehensive or Monica is not even-tempered. Marianna is not apprehensive.,Monica is even-tempered,0
+336,1,Marianna is apprehensive or Monica is not even-tempered. Marianna is not apprehensive.,Monica is not even-tempered,1
+337,1,Scarlett is not imperturbable or Marla is not enthusiastic. Marla is enthusiastic.,Scarlett is imperturbable,0
+338,1,Scarlett is not imperturbable or Marla is not enthusiastic. Marla is enthusiastic.,Scarlett is not imperturbable,1
+339,1,Scarlett is not imperturbable or Marla is not enthusiastic. Marla is enthusiastic.,Marla is enthusiastic,1
+340,1,Scarlett is not imperturbable or Marla is not enthusiastic. Marla is enthusiastic.,Marla is not enthusiastic,0
+341,1,Aubrey is level-headed or Salina is not inconsiderate. Salina is inconsiderate.,Aubrey is level-headed,1
+342,1,Aubrey is level-headed or Salina is not inconsiderate. Salina is inconsiderate.,Aubrey is not level-headed,0
+343,1,Aubrey is level-headed or Salina is not inconsiderate. Salina is inconsiderate.,Salina is inconsiderate,1
+344,1,Aubrey is level-headed or Salina is not inconsiderate. Salina is inconsiderate.,Salina is not inconsiderate,0
+345,0,Either Kyra is not well-respected or Astrid is not imperturbable. Kyra is not well-respected.,Kyra is well-respected,0
+346,0,Either Kyra is not well-respected or Astrid is not imperturbable. Kyra is not well-respected.,Kyra is not well-respected,1
+347,0,Either Kyra is not well-respected or Astrid is not imperturbable. Kyra is not well-respected.,Astrid is imperturbable,1
+348,0,Either Kyra is not well-respected or Astrid is not imperturbable. Kyra is not well-respected.,Astrid is not imperturbable,0
+349,0,Either Miah is inconsiderate or Alexia is not apprehensive. Alexia is not apprehensive.,Miah is inconsiderate,0
+350,0,Either Miah is inconsiderate or Alexia is not apprehensive. Alexia is not apprehensive.,Miah is not inconsiderate,1
+351,0,Either Miah is inconsiderate or Alexia is not apprehensive. Alexia is not apprehensive.,Alexia is apprehensive,0
+352,0,Either Miah is inconsiderate or Alexia is not apprehensive. Alexia is not apprehensive.,Alexia is not apprehensive,1
+353,0,Either Aubrey is hypercritical or Katrina is well-respected. Aubrey is hypercritical.,Aubrey is hypercritical,1
+354,0,Either Aubrey is hypercritical or Katrina is well-respected. Aubrey is hypercritical.,Aubrey is not hypercritical,0
+355,0,Either Aubrey is hypercritical or Katrina is well-respected. Aubrey is hypercritical.,Katrina is well-respected,0
+356,0,Either Aubrey is hypercritical or Katrina is well-respected. Aubrey is hypercritical.,Katrina is not well-respected,1
+357,0,Either Cara is not hypercritical or Darian is uncooperative. Darian is uncooperative.,Cara is hypercritical,1
+358,0,Either Cara is not hypercritical or Darian is uncooperative. Darian is uncooperative.,Cara is not hypercritical,0
+359,0,Either Cara is not hypercritical or Darian is uncooperative. Darian is uncooperative.,Darian is uncooperative,1
+360,0,Either Cara is not hypercritical or Darian is uncooperative. Darian is uncooperative.,Darian is not uncooperative,0
+361,1,Nyla is not warmhearted or Jillian is undependable. Jillian is undependable.,Nyla is warmhearted,1
+362,1,Nyla is not warmhearted or Jillian is undependable. Jillian is undependable.,Nyla is not warmhearted,1
+363,1,Nyla is not warmhearted or Jillian is undependable. Jillian is undependable.,Jillian is undependable,1
+364,1,Nyla is not warmhearted or Jillian is undependable. Jillian is undependable.,Jillian is not undependable,0
+365,1,Whitney is not indefatigable or Alexandra is not inconsiderate. Alexandra is not inconsiderate.,Whitney is indefatigable,1
+366,1,Whitney is not indefatigable or Alexandra is not inconsiderate. Alexandra is not inconsiderate.,Whitney is not indefatigable,1
+367,1,Whitney is not indefatigable or Alexandra is not inconsiderate. Alexandra is not inconsiderate.,Alexandra is inconsiderate,0
+368,1,Whitney is not indefatigable or Alexandra is not inconsiderate. Alexandra is not inconsiderate.,Alexandra is not inconsiderate,1
+369,1,Esther is not uncooperative or Maryann is paternalistic. Esther is not uncooperative.,Esther is uncooperative,0
+370,1,Esther is not uncooperative or Maryann is paternalistic. Esther is not uncooperative.,Esther is not uncooperative,1
+371,1,Esther is not uncooperative or Maryann is paternalistic. Esther is not uncooperative.,Maryann is paternalistic,1
+372,1,Esther is not uncooperative or Maryann is paternalistic. Esther is not uncooperative.,Maryann is not paternalistic,1
+373,0,Either Elisa is not inconsiderate or Kaycee is not undependable. Elisa is inconsiderate.,Elisa is inconsiderate,1
+374,0,Either Elisa is not inconsiderate or Kaycee is not undependable. Elisa is inconsiderate.,Elisa is not inconsiderate,0
+375,0,Either Elisa is not inconsiderate or Kaycee is not undependable. Elisa is inconsiderate.,Kaycee is undependable,0
+376,0,Either Elisa is not inconsiderate or Kaycee is not undependable. Elisa is inconsiderate.,Kaycee is not undependable,1
+377,1,Paige is old-fashioned or Mara is ostentatious. Paige is old-fashioned.,Paige is old-fashioned,1
+378,1,Paige is old-fashioned or Mara is ostentatious. Paige is old-fashioned.,Paige is not old-fashioned,0
+379,1,Paige is old-fashioned or Mara is ostentatious. Paige is old-fashioned.,Mara is ostentatious,1
+380,1,Paige is old-fashioned or Mara is ostentatious. Paige is old-fashioned.,Mara is not ostentatious,1
+381,0,Either Cassondra is conscientious or Aria is not hypercritical. Cassondra is conscientious.,Cassondra is conscientious,1
+382,0,Either Cassondra is conscientious or Aria is not hypercritical. Cassondra is conscientious.,Cassondra is not conscientious,0
+383,0,Either Cassondra is conscientious or Aria is not hypercritical. Cassondra is conscientious.,Aria is hypercritical,1
+384,0,Either Cassondra is conscientious or Aria is not hypercritical. Cassondra is conscientious.,Aria is not hypercritical,0
+385,1,Selena is not even-tempered or Anne is unmotivated. Selena is even-tempered.,Selena is even-tempered,1
+386,1,Selena is not even-tempered or Anne is unmotivated. Selena is even-tempered.,Selena is not even-tempered,0
+387,1,Selena is not even-tempered or Anne is unmotivated. Selena is even-tempered.,Anne is unmotivated,1
+388,1,Selena is not even-tempered or Anne is unmotivated. Selena is even-tempered.,Anne is not unmotivated,0
+389,0,Either Mandy is not unmotivated or Denisse is well-developed. Denisse is not well-developed.,Mandy is unmotivated,0
+390,0,Either Mandy is not unmotivated or Denisse is well-developed. Denisse is not well-developed.,Mandy is not unmotivated,1
+391,0,Either Mandy is not unmotivated or Denisse is well-developed. Denisse is not well-developed.,Denisse is well-developed,0
+392,0,Either Mandy is not unmotivated or Denisse is well-developed. Denisse is not well-developed.,Denisse is not well-developed,1
+393,0,Either Janelle is not inconsistent or Keira is inconsiderate. Janelle is not inconsistent.,Janelle is inconsistent,0
+394,0,Either Janelle is not inconsistent or Keira is inconsiderate. Janelle is not inconsistent.,Janelle is not inconsistent,1
+395,0,Either Janelle is not inconsistent or Keira is inconsiderate. Janelle is not inconsistent.,Keira is inconsiderate,0
+396,0,Either Janelle is not inconsistent or Keira is inconsiderate. Janelle is not inconsistent.,Keira is not inconsiderate,1
+397,1,Natalia is level-headed or Janet is well-respected. Natalia is not level-headed.,Natalia is level-headed,0
+398,1,Natalia is level-headed or Janet is well-respected. Natalia is not level-headed.,Natalia is not level-headed,1
+399,1,Natalia is level-headed or Janet is well-respected. Natalia is not level-headed.,Janet is well-respected,1
+400,1,Natalia is level-headed or Janet is well-respected. Natalia is not level-headed.,Janet is not well-respected,0
+401,0,Either Carolina is well-respected or Caitlin is not above average. Carolina is well-respected.,Carolina is well-respected,1
+402,0,Either Carolina is well-respected or Caitlin is not above average. Carolina is well-respected.,Carolina is not well-respected,0
+403,0,Either Carolina is well-respected or Caitlin is not above average. Carolina is well-respected.,Caitlin is above,1
+404,0,Either Carolina is well-respected or Caitlin is not above average. Carolina is well-respected.,Caitlin is not above average,0
+405,0,Either Deyanira is not even-tempered or Chastity is plain-speaking. Chastity is not plain-speaking.,Deyanira is even-tempered,0
+406,0,Either Deyanira is not even-tempered or Chastity is plain-speaking. Chastity is not plain-speaking.,Deyanira is not even-tempered,1
+407,0,Either Deyanira is not even-tempered or Chastity is plain-speaking. Chastity is not plain-speaking.,Chastity is plain-speaking,0
+408,0,Either Deyanira is not even-tempered or Chastity is plain-speaking. Chastity is not plain-speaking.,Chastity is not plain-speaking,1
+409,1,Gretchen is not condescending or Savanah is not imperturbable. Savanah is imperturbable.,Gretchen is condescending,0
+410,1,Gretchen is not condescending or Savanah is not imperturbable. Savanah is imperturbable.,Gretchen is not condescending,1
+411,1,Gretchen is not condescending or Savanah is not imperturbable. Savanah is imperturbable.,Savanah is imperturbable,1
+412,1,Gretchen is not condescending or Savanah is not imperturbable. Savanah is imperturbable.,Savanah is not imperturbable,0
+413,0,Either Imani is warmhearted or Alissa is absent-minded. Alissa is not absent-minded.,Imani is warmhearted,1
+414,0,Either Imani is warmhearted or Alissa is absent-minded. Alissa is not absent-minded.,Imani is not warmhearted,0
+415,0,Either Imani is warmhearted or Alissa is absent-minded. Alissa is not absent-minded.,Alissa is absent-minded,0
+416,0,Either Imani is warmhearted or Alissa is absent-minded. Alissa is not absent-minded.,Alissa is not absent-minded,1
+417,0,Either Elaina is not well-respected or Brenda is inexperienced. Brenda is inexperienced.,Elaina is well-respected,1
+418,0,Either Elaina is not well-respected or Brenda is inexperienced. Brenda is inexperienced.,Elaina is not well-respected,0
+419,0,Either Elaina is not well-respected or Brenda is inexperienced. Brenda is inexperienced.,Brenda is inexperienced,1
+420,0,Either Elaina is not well-respected or Brenda is inexperienced. Brenda is inexperienced.,Brenda is not inexperienced,0
+421,1,Hannah is unmotivated or Ella is not plain-speaking. Ella is plain-speaking.,Hannah is unmotivated,1
+422,1,Hannah is unmotivated or Ella is not plain-speaking. Ella is plain-speaking.,Hannah is not unmotivated,0
+423,1,Hannah is unmotivated or Ella is not plain-speaking. Ella is plain-speaking.,Ella is plain-speaking,1
+424,1,Hannah is unmotivated or Ella is not plain-speaking. Ella is plain-speaking.,Ella is not plain-speaking,0
+425,0,Either Emilia is affectionate or Gracie is not warmhearted. Gracie is not warmhearted.,Emilia is affectionate,0
+426,0,Either Emilia is affectionate or Gracie is not warmhearted. Gracie is not warmhearted.,Emilia is not affectionate,1
+427,0,Either Emilia is affectionate or Gracie is not warmhearted. Gracie is not warmhearted.,Gracie is warmhearted,0
+428,0,Either Emilia is affectionate or Gracie is not warmhearted. Gracie is not warmhearted.,Gracie is not warmhearted,1
+429,1,Katelin is not hypercritical or Mikayla is well-rounded. Katelin is not hypercritical.,Katelin is hypercritical,0
+430,1,Katelin is not hypercritical or Mikayla is well-rounded. Katelin is not hypercritical.,Katelin is not hypercritical,1
+431,1,Katelin is not hypercritical or Mikayla is well-rounded. Katelin is not hypercritical.,Mikayla is well-rounded,1
+432,1,Katelin is not hypercritical or Mikayla is well-rounded. Katelin is not hypercritical.,Mikayla is not well-rounded,1
+433,1,Jaylynn is not well-behaved or Nyasia is not level-headed. Jaylynn is well-behaved.,Jaylynn is well-behaved,1
+434,1,Jaylynn is not well-behaved or Nyasia is not level-headed. Jaylynn is well-behaved.,Jaylynn is not well-behaved,0
+435,1,Jaylynn is not well-behaved or Nyasia is not level-headed. Jaylynn is well-behaved.,Nyasia is level-headed,0
+436,1,Jaylynn is not well-behaved or Nyasia is not level-headed. Jaylynn is well-behaved.,Nyasia is not level-headed,1
+437,1,Ashleigh is enthusiastic or Graciela is not enterprising. Ashleigh is not enthusiastic.,Ashleigh is enthusiastic,0
+438,1,Ashleigh is enthusiastic or Graciela is not enterprising. Ashleigh is not enthusiastic.,Ashleigh is not enthusiastic,1
+439,1,Ashleigh is enthusiastic or Graciela is not enterprising. Ashleigh is not enthusiastic.,Graciela is enterprising,0
+440,1,Ashleigh is enthusiastic or Graciela is not enterprising. Ashleigh is not enthusiastic.,Graciela is not enterprising,1
+441,0,Either Brielle is not below average or Breana is not inexperienced. Brielle is not below average.,Brielle is below,0
+442,0,Either Brielle is not below average or Breana is not inexperienced. Brielle is not below average.,Brielle is not below average,1
+443,0,Either Brielle is not below average or Breana is not inexperienced. Brielle is not below average.,Breana is inexperienced,1
+444,0,Either Brielle is not below average or Breana is not inexperienced. Brielle is not below average.,Breana is not inexperienced,0
+445,0,Either Carolina is uncooperative or Cecilia is unsophisticated. Cecilia is not unsophisticated.,Carolina is uncooperative,1
+446,0,Either Carolina is uncooperative or Cecilia is unsophisticated. Cecilia is not unsophisticated.,Carolina is not uncooperative,0
+447,0,Either Carolina is uncooperative or Cecilia is unsophisticated. Cecilia is not unsophisticated.,Cecilia is unsophisticated,0
+448,0,Either Carolina is uncooperative or Cecilia is unsophisticated. Cecilia is not unsophisticated.,Cecilia is not unsophisticated,1
+449,0,Either Lindsey is indefatigable or Sheena is not sophisticated. Sheena is not sophisticated.,Lindsey is indefatigable,0
+450,0,Either Lindsey is indefatigable or Sheena is not sophisticated. Sheena is not sophisticated.,Lindsey is not indefatigable,1
+451,0,Either Lindsey is indefatigable or Sheena is not sophisticated. Sheena is not sophisticated.,Sheena is sophisticated,0
+452,0,Either Lindsey is indefatigable or Sheena is not sophisticated. Sheena is not sophisticated.,Sheena is not sophisticated,1
+453,1,Shayna is unimaginative or Margaret is old-fashioned. Shayna is not unimaginative.,Shayna is unimaginative,0
+454,1,Shayna is unimaginative or Margaret is old-fashioned. Shayna is not unimaginative.,Shayna is not unimaginative,1
+455,1,Shayna is unimaginative or Margaret is old-fashioned. Shayna is not unimaginative.,Margaret is old-fashioned,1
+456,1,Shayna is unimaginative or Margaret is old-fashioned. Shayna is not unimaginative.,Margaret is not old-fashioned,0
+457,0,Either Kaylie is ostentatious or Kiera is imperturbable. Kiera is not imperturbable.,Kaylie is ostentatious,1
+458,0,Either Kaylie is ostentatious or Kiera is imperturbable. Kiera is not imperturbable.,Kaylie is not ostentatious,0
+459,0,Either Kaylie is ostentatious or Kiera is imperturbable. Kiera is not imperturbable.,Kiera is imperturbable,0
+460,0,Either Kaylie is ostentatious or Kiera is imperturbable. Kiera is not imperturbable.,Kiera is not imperturbable,1
+461,1,Catalina is not impressionable or Lucille is not impressionable. Lucille is not impressionable.,Catalina is impressionable,1
+462,1,Catalina is not impressionable or Lucille is not impressionable. Lucille is not impressionable.,Catalina is not impressionable,1
+463,1,Catalina is not impressionable or Lucille is not impressionable. Lucille is not impressionable.,Lucille is impressionable,0
+464,1,Catalina is not impressionable or Lucille is not impressionable. Lucille is not impressionable.,Lucille is not impressionable,1
+465,1,Aliya is hypercritical or Giana is not affectionate. Giana is affectionate.,Aliya is hypercritical,1
+466,1,Aliya is hypercritical or Giana is not affectionate. Giana is affectionate.,Aliya is not hypercritical,0
+467,1,Aliya is hypercritical or Giana is not affectionate. Giana is affectionate.,Giana is affectionate,1
+468,1,Aliya is hypercritical or Giana is not affectionate. Giana is affectionate.,Giana is not affectionate,0
+469,1,Faith is unmotivated or Ashly is impressionable. Ashly is impressionable.,Faith is unmotivated,1
+470,1,Faith is unmotivated or Ashly is impressionable. Ashly is impressionable.,Faith is not unmotivated,1
+471,1,Faith is unmotivated or Ashly is impressionable. Ashly is impressionable.,Ashly is impressionable,1
+472,1,Faith is unmotivated or Ashly is impressionable. Ashly is impressionable.,Ashly is not impressionable,0
+473,0,Either Kyla is not sophisticated or Charity is not apprehensive. Charity is not apprehensive.,Kyla is sophisticated,1
+474,0,Either Kyla is not sophisticated or Charity is not apprehensive. Charity is not apprehensive.,Kyla is not sophisticated,0
+475,0,Either Kyla is not sophisticated or Charity is not apprehensive. Charity is not apprehensive.,Charity is apprehensive,0
+476,0,Either Kyla is not sophisticated or Charity is not apprehensive. Charity is not apprehensive.,Charity is not apprehensive,1
+477,0,Either Jada is not absent-minded or Baby is not well-respected. Baby is not well-respected.,Jada is absent-minded,1
+478,0,Either Jada is not absent-minded or Baby is not well-respected. Baby is not well-respected.,Jada is not absent-minded,0
+479,0,Either Jada is not absent-minded or Baby is not well-respected. Baby is not well-respected.,Baby is well-respected,0
+480,0,Either Jada is not absent-minded or Baby is not well-respected. Baby is not well-respected.,Baby is not well-respected,1
+481,1,Nora is unimaginative or Kyra is not above average. Kyra is above.,Nora is unimaginative,1
+482,1,Nora is unimaginative or Kyra is not above average. Kyra is above.,Nora is not unimaginative,0
+483,1,Nora is unimaginative or Kyra is not above average. Kyra is above.,Kyra is above,1
+484,1,Nora is unimaginative or Kyra is not above average. Kyra is above.,Kyra is not above average,0
+485,1,Jada is unsophisticated or Randi is well-respected. Jada is not unsophisticated.,Jada is unsophisticated,0
+486,1,Jada is unsophisticated or Randi is well-respected. Jada is not unsophisticated.,Jada is not unsophisticated,1
+487,1,Jada is unsophisticated or Randi is well-respected. Jada is not unsophisticated.,Randi is well-respected,1
+488,1,Jada is unsophisticated or Randi is well-respected. Jada is not unsophisticated.,Randi is not well-respected,0
+489,1,Madisen is paternalistic or Jodi is indefatigable. Madisen is paternalistic.,Madisen is paternalistic,1
+490,1,Madisen is paternalistic or Jodi is indefatigable. Madisen is paternalistic.,Madisen is not paternalistic,0
+491,1,Madisen is paternalistic or Jodi is indefatigable. Madisen is paternalistic.,Jodi is indefatigable,1
+492,1,Madisen is paternalistic or Jodi is indefatigable. Madisen is paternalistic.,Jodi is not indefatigable,1
+493,0,Either Jordan is not old-fashioned or Carli is enthusiastic. Carli is enthusiastic.,Jordan is old-fashioned,1
+494,0,Either Jordan is not old-fashioned or Carli is enthusiastic. Carli is enthusiastic.,Jordan is not old-fashioned,0
+495,0,Either Jordan is not old-fashioned or Carli is enthusiastic. Carli is enthusiastic.,Carli is enthusiastic,1
+496,0,Either Jordan is not old-fashioned or Carli is enthusiastic. Carli is enthusiastic.,Carli is not enthusiastic,0
+497,1,Kya is indefatigable or Jazmine is quick-tempered. Kya is not indefatigable.,Kya is indefatigable,0
+498,1,Kya is indefatigable or Jazmine is quick-tempered. Kya is not indefatigable.,Kya is not indefatigable,1
+499,1,Kya is indefatigable or Jazmine is quick-tempered. Kya is not indefatigable.,Jazmine is quick-tempered,1
+500,1,Kya is indefatigable or Jazmine is quick-tempered. Kya is not indefatigable.,Jazmine is not quick-tempered,0
+501,1,Elaina is not well-developed or Mackenzie is not old-fashioned. Elaina is not well-developed.,Elaina is well-developed,0
+502,1,Elaina is not well-developed or Mackenzie is not old-fashioned. Elaina is not well-developed.,Elaina is not well-developed,1
+503,1,Elaina is not well-developed or Mackenzie is not old-fashioned. Elaina is not well-developed.,Mackenzie is old-fashioned,1
+504,1,Elaina is not well-developed or Mackenzie is not old-fashioned. Elaina is not well-developed.,Mackenzie is not old-fashioned,1
+505,1,Britney is not well-developed or Alex is imperturbable. Britney is not well-developed.,Britney is well-developed,0
+506,1,Britney is not well-developed or Alex is imperturbable. Britney is not well-developed.,Britney is not well-developed,1
+507,1,Britney is not well-developed or Alex is imperturbable. Britney is not well-developed.,Alex is imperturbable,1
+508,1,Britney is not well-developed or Alex is imperturbable. Britney is not well-developed.,Alex is not imperturbable,1
+509,0,Either Heidi is even-tempered or Jenna is not even-tempered. Jenna is even-tempered.,Heidi is even-tempered,1
+510,0,Either Heidi is even-tempered or Jenna is not even-tempered. Jenna is even-tempered.,Heidi is not even-tempered,0
+511,0,Either Heidi is even-tempered or Jenna is not even-tempered. Jenna is even-tempered.,Jenna is even-tempered,1
+512,0,Either Heidi is even-tempered or Jenna is not even-tempered. Jenna is even-tempered.,Jenna is not even-tempered,0
+513,0,Either Jacqueline is not enterprising or Myra is well-behaved. Jacqueline is enterprising.,Jacqueline is enterprising,1
+514,0,Either Jacqueline is not enterprising or Myra is well-behaved. Jacqueline is enterprising.,Jacqueline is not enterprising,0
+515,0,Either Jacqueline is not enterprising or Myra is well-behaved. Jacqueline is enterprising.,Myra is well-behaved,1
+516,0,Either Jacqueline is not enterprising or Myra is well-behaved. Jacqueline is enterprising.,Myra is not well-behaved,0
+517,1,Aimee is not inexperienced or Drew is inconsiderate. Drew is not inconsiderate.,Aimee is inexperienced,0
+518,1,Aimee is not inexperienced or Drew is inconsiderate. Drew is not inconsiderate.,Aimee is not inexperienced,1
+519,1,Aimee is not inexperienced or Drew is inconsiderate. Drew is not inconsiderate.,Drew is inconsiderate,0
+520,1,Aimee is not inexperienced or Drew is inconsiderate. Drew is not inconsiderate.,Drew is not inconsiderate,1
+521,1,Mandy is not self-assured or Lora is not hypercritical. Mandy is self-assured.,Mandy is self-assured,1
+522,1,Mandy is not self-assured or Lora is not hypercritical. Mandy is self-assured.,Mandy is not self-assured,0
+523,1,Mandy is not self-assured or Lora is not hypercritical. Mandy is self-assured.,Lora is hypercritical,0
+524,1,Mandy is not self-assured or Lora is not hypercritical. Mandy is self-assured.,Lora is not hypercritical,1
+525,0,Either Stacey is not apprehensive or Daniella is not inconsiderate. Stacey is not apprehensive.,Stacey is apprehensive,0
+526,0,Either Stacey is not apprehensive or Daniella is not inconsiderate. Stacey is not apprehensive.,Stacey is not apprehensive,1
+527,0,Either Stacey is not apprehensive or Daniella is not inconsiderate. Stacey is not apprehensive.,Daniella is inconsiderate,1
+528,0,Either Stacey is not apprehensive or Daniella is not inconsiderate. Stacey is not apprehensive.,Daniella is not inconsiderate,0
+529,0,Either Zariah is quick-tempered or Christine is not unimaginative. Zariah is quick-tempered.,Zariah is quick-tempered,1
+530,0,Either Zariah is quick-tempered or Christine is not unimaginative. Zariah is quick-tempered.,Zariah is not quick-tempered,0
+531,0,Either Zariah is quick-tempered or Christine is not unimaginative. Zariah is quick-tempered.,Christine is unimaginative,1
+532,0,Either Zariah is quick-tempered or Christine is not unimaginative. Zariah is quick-tempered.,Christine is not unimaginative,0
+533,1,Tyler is imperturbable or Dana is not enthusiastic. Dana is enthusiastic.,Tyler is imperturbable,1
+534,1,Tyler is imperturbable or Dana is not enthusiastic. Dana is enthusiastic.,Tyler is not imperturbable,0
+535,1,Tyler is imperturbable or Dana is not enthusiastic. Dana is enthusiastic.,Dana is enthusiastic,1
+536,1,Tyler is imperturbable or Dana is not enthusiastic. Dana is enthusiastic.,Dana is not enthusiastic,0
+537,1,Vicki is not impressionable or Yasmine is not imperturbable. Vicki is not impressionable.,Vicki is impressionable,0
+538,1,Vicki is not impressionable or Yasmine is not imperturbable. Vicki is not impressionable.,Vicki is not impressionable,1
+539,1,Vicki is not impressionable or Yasmine is not imperturbable. Vicki is not impressionable.,Yasmine is imperturbable,1
+540,1,Vicki is not impressionable or Yasmine is not imperturbable. Vicki is not impressionable.,Yasmine is not imperturbable,1
+541,1,Eva is not disagreeable or Alessandra is sophisticated. Alessandra is sophisticated.,Eva is disagreeable,1
+542,1,Eva is not disagreeable or Alessandra is sophisticated. Alessandra is sophisticated.,Eva is not disagreeable,1
+543,1,Eva is not disagreeable or Alessandra is sophisticated. Alessandra is sophisticated.,Alessandra is sophisticated,1
+544,1,Eva is not disagreeable or Alessandra is sophisticated. Alessandra is sophisticated.,Alessandra is not sophisticated,0
+545,0,Either Michelle is even-tempered or Cayla is not inexperienced. Cayla is not inexperienced.,Michelle is even-tempered,0
+546,0,Either Michelle is even-tempered or Cayla is not inexperienced. Cayla is not inexperienced.,Michelle is not even-tempered,1
+547,0,Either Michelle is even-tempered or Cayla is not inexperienced. Cayla is not inexperienced.,Cayla is inexperienced,0
+548,0,Either Michelle is even-tempered or Cayla is not inexperienced. Cayla is not inexperienced.,Cayla is not inexperienced,1
+549,1,Tiffany is uncooperative or Miriam is not paternalistic. Miriam is not paternalistic.,Tiffany is uncooperative,1
+550,1,Tiffany is uncooperative or Miriam is not paternalistic. Miriam is not paternalistic.,Tiffany is not uncooperative,1
+551,1,Tiffany is uncooperative or Miriam is not paternalistic. Miriam is not paternalistic.,Miriam is paternalistic,0
+552,1,Tiffany is uncooperative or Miriam is not paternalistic. Miriam is not paternalistic.,Miriam is not paternalistic,1
+553,1,Lexi is well-rounded or Irma is not inconsiderate. Irma is inconsiderate.,Lexi is well-rounded,1
+554,1,Lexi is well-rounded or Irma is not inconsiderate. Irma is inconsiderate.,Lexi is not well-rounded,0
+555,1,Lexi is well-rounded or Irma is not inconsiderate. Irma is inconsiderate.,Irma is inconsiderate,1
+556,1,Lexi is well-rounded or Irma is not inconsiderate. Irma is inconsiderate.,Irma is not inconsiderate,0
+557,0,Either Kristal is not inexperienced or Ryleigh is not below average. Ryleigh is not below average.,Kristal is inexperienced,1
+558,0,Either Kristal is not inexperienced or Ryleigh is not below average. Ryleigh is not below average.,Kristal is not inexperienced,0
+559,0,Either Kristal is not inexperienced or Ryleigh is not below average. Ryleigh is not below average.,Ryleigh is below,0
+560,0,Either Kristal is not inexperienced or Ryleigh is not below average. Ryleigh is not below average.,Ryleigh is not below average,1
+561,0,Either Maddison is apprehensive or Lisa is sophisticated. Lisa is sophisticated.,Maddison is apprehensive,0
+562,0,Either Maddison is apprehensive or Lisa is sophisticated. Lisa is sophisticated.,Maddison is not apprehensive,1
+563,0,Either Maddison is apprehensive or Lisa is sophisticated. Lisa is sophisticated.,Lisa is sophisticated,1
+564,0,Either Maddison is apprehensive or Lisa is sophisticated. Lisa is sophisticated.,Lisa is not sophisticated,0
+565,1,Chantel is paternalistic or Alexandria is absent-minded. Alexandria is not absent-minded.,Chantel is paternalistic,1
+566,1,Chantel is paternalistic or Alexandria is absent-minded. Alexandria is not absent-minded.,Chantel is not paternalistic,0
+567,1,Chantel is paternalistic or Alexandria is absent-minded. Alexandria is not absent-minded.,Alexandria is absent-minded,0
+568,1,Chantel is paternalistic or Alexandria is absent-minded. Alexandria is not absent-minded.,Alexandria is not absent-minded,1
+569,1,Calista is well-developed or Cortney is disagreeable. Calista is not well-developed.,Calista is well-developed,0
+570,1,Calista is well-developed or Cortney is disagreeable. Calista is not well-developed.,Calista is not well-developed,1
+571,1,Calista is well-developed or Cortney is disagreeable. Calista is not well-developed.,Cortney is disagreeable,1
+572,1,Calista is well-developed or Cortney is disagreeable. Calista is not well-developed.,Cortney is not disagreeable,0
+573,1,Sierra is not paternalistic or Sandy is level-headed. Sandy is not level-headed.,Sierra is paternalistic,0
+574,1,Sierra is not paternalistic or Sandy is level-headed. Sandy is not level-headed.,Sierra is not paternalistic,1
+575,1,Sierra is not paternalistic or Sandy is level-headed. Sandy is not level-headed.,Sandy is level-headed,0
+576,1,Sierra is not paternalistic or Sandy is level-headed. Sandy is not level-headed.,Sandy is not level-headed,1
+577,0,Either Blair is imperturbable or Sally is not supercilious. Blair is imperturbable.,Blair is imperturbable,1
+578,0,Either Blair is imperturbable or Sally is not supercilious. Blair is imperturbable.,Blair is not imperturbable,0
+579,0,Either Blair is imperturbable or Sally is not supercilious. Blair is imperturbable.,Sally is supercilious,1
+580,0,Either Blair is imperturbable or Sally is not supercilious. Blair is imperturbable.,Sally is not supercilious,0
+581,0,Either Alanna is inconsistent or Ruth is supercilious. Alanna is inconsistent.,Alanna is inconsistent,1
+582,0,Either Alanna is inconsistent or Ruth is supercilious. Alanna is inconsistent.,Alanna is not inconsistent,0
+583,0,Either Alanna is inconsistent or Ruth is supercilious. Alanna is inconsistent.,Ruth is supercilious,0
+584,0,Either Alanna is inconsistent or Ruth is supercilious. Alanna is inconsistent.,Ruth is not supercilious,1
+585,0,Either Lacy is not level-headed or Hadley is not unmotivated. Lacy is not level-headed.,Lacy is level-headed,0
+586,0,Either Lacy is not level-headed or Hadley is not unmotivated. Lacy is not level-headed.,Lacy is not level-headed,1
+587,0,Either Lacy is not level-headed or Hadley is not unmotivated. Lacy is not level-headed.,Hadley is unmotivated,1
+588,0,Either Lacy is not level-headed or Hadley is not unmotivated. Lacy is not level-headed.,Hadley is not unmotivated,0
+589,1,Shyanne is undependable or Elle is cantankerous. Shyanne is undependable.,Shyanne is undependable,1
+590,1,Shyanne is undependable or Elle is cantankerous. Shyanne is undependable.,Shyanne is not undependable,0
+591,1,Shyanne is undependable or Elle is cantankerous. Shyanne is undependable.,Elle is cantankerous,1
+592,1,Shyanne is undependable or Elle is cantankerous. Shyanne is undependable.,Elle is not cantankerous,1
+593,1,Michelle is not conscientious or Sarah is well-behaved. Michelle is conscientious.,Michelle is conscientious,1
+594,1,Michelle is not conscientious or Sarah is well-behaved. Michelle is conscientious.,Michelle is not conscientious,0
+595,1,Michelle is not conscientious or Sarah is well-behaved. Michelle is conscientious.,Sarah is well-behaved,1
+596,1,Michelle is not conscientious or Sarah is well-behaved. Michelle is conscientious.,Sarah is not well-behaved,0
+597,1,Estrella is not level-headed or Aubrey is not quick-tempered. Estrella is level-headed.,Estrella is level-headed,1
+598,1,Estrella is not level-headed or Aubrey is not quick-tempered. Estrella is level-headed.,Estrella is not level-headed,0
+599,1,Estrella is not level-headed or Aubrey is not quick-tempered. Estrella is level-headed.,Aubrey is quick-tempered,0
+600,1,Estrella is not level-headed or Aubrey is not quick-tempered. Estrella is level-headed.,Aubrey is not quick-tempered,1
+601,0,Either Cindy is inexperienced or Becky is not quick-tempered. Cindy is not inexperienced.,Cindy is inexperienced,0
+602,0,Either Cindy is inexperienced or Becky is not quick-tempered. Cindy is not inexperienced.,Cindy is not inexperienced,1
+603,0,Either Cindy is inexperienced or Becky is not quick-tempered. Cindy is not inexperienced.,Becky is quick-tempered,0
+604,0,Either Cindy is inexperienced or Becky is not quick-tempered. Cindy is not inexperienced.,Becky is not quick-tempered,1
+605,1,Sienna is not short-tempered or Elyssa is not well-intentioned. Elyssa is not well-intentioned.,Sienna is short-tempered,1
+606,1,Sienna is not short-tempered or Elyssa is not well-intentioned. Elyssa is not well-intentioned.,Sienna is not short-tempered,1
+607,1,Sienna is not short-tempered or Elyssa is not well-intentioned. Elyssa is not well-intentioned.,Elyssa is well-intentioned,0
+608,1,Sienna is not short-tempered or Elyssa is not well-intentioned. Elyssa is not well-intentioned.,Elyssa is not well-intentioned,1
+609,0,Either Paige is warmhearted or Latisha is not above average. Paige is not warmhearted.,Paige is warmhearted,0
+610,0,Either Paige is warmhearted or Latisha is not above average. Paige is not warmhearted.,Paige is not warmhearted,1
+611,0,Either Paige is warmhearted or Latisha is not above average. Paige is not warmhearted.,Latisha is above,0
+612,0,Either Paige is warmhearted or Latisha is not above average. Paige is not warmhearted.,Latisha is not above average,1
+613,1,Renae is not absent-minded or Angelina is inconsiderate. Angelina is not inconsiderate.,Renae is absent-minded,0
+614,1,Renae is not absent-minded or Angelina is inconsiderate. Angelina is not inconsiderate.,Renae is not absent-minded,1
+615,1,Renae is not absent-minded or Angelina is inconsiderate. Angelina is not inconsiderate.,Angelina is inconsiderate,0
+616,1,Renae is not absent-minded or Angelina is inconsiderate. Angelina is not inconsiderate.,Angelina is not inconsiderate,1
+617,0,Either Brianne is even-tempered or Marlee is absent-minded. Marlee is absent-minded.,Brianne is even-tempered,0
+618,0,Either Brianne is even-tempered or Marlee is absent-minded. Marlee is absent-minded.,Brianne is not even-tempered,1
+619,0,Either Brianne is even-tempered or Marlee is absent-minded. Marlee is absent-minded.,Marlee is absent-minded,1
+620,0,Either Brianne is even-tempered or Marlee is absent-minded. Marlee is absent-minded.,Marlee is not absent-minded,0
+621,0,Either Nikole is not cantankerous or Calista is unsophisticated. Nikole is not cantankerous.,Nikole is cantankerous,0
+622,0,Either Nikole is not cantankerous or Calista is unsophisticated. Nikole is not cantankerous.,Nikole is not cantankerous,1
+623,0,Either Nikole is not cantankerous or Calista is unsophisticated. Nikole is not cantankerous.,Calista is unsophisticated,0
+624,0,Either Nikole is not cantankerous or Calista is unsophisticated. Nikole is not cantankerous.,Calista is not unsophisticated,1
+625,1,Miriam is short-tempered or Tatyana is not even-tempered. Tatyana is not even-tempered.,Miriam is short-tempered,1
+626,1,Miriam is short-tempered or Tatyana is not even-tempered. Tatyana is not even-tempered.,Miriam is not short-tempered,1
+627,1,Miriam is short-tempered or Tatyana is not even-tempered. Tatyana is not even-tempered.,Tatyana is even-tempered,0
+628,1,Miriam is short-tempered or Tatyana is not even-tempered. Tatyana is not even-tempered.,Tatyana is not even-tempered,1
+629,1,Deidra is paternalistic or Regan is not even-tempered. Deidra is paternalistic.,Deidra is paternalistic,1
+630,1,Deidra is paternalistic or Regan is not even-tempered. Deidra is paternalistic.,Deidra is not paternalistic,0
+631,1,Deidra is paternalistic or Regan is not even-tempered. Deidra is paternalistic.,Regan is even-tempered,1
+632,1,Deidra is paternalistic or Regan is not even-tempered. Deidra is paternalistic.,Regan is not even-tempered,1
+633,0,Either Sandra is not disagreeable or Isabella is not below average. Isabella is below.,Sandra is disagreeable,0
+634,0,Either Sandra is not disagreeable or Isabella is not below average. Isabella is below.,Sandra is not disagreeable,1
+635,0,Either Sandra is not disagreeable or Isabella is not below average. Isabella is below.,Isabella is below,1
+636,0,Either Sandra is not disagreeable or Isabella is not below average. Isabella is below.,Isabella is not below average,0
+637,1,Kianna is not conscientious or Juliet is not well-rounded. Juliet is not well-rounded.,Kianna is conscientious,1
+638,1,Kianna is not conscientious or Juliet is not well-rounded. Juliet is not well-rounded.,Kianna is not conscientious,1
+639,1,Kianna is not conscientious or Juliet is not well-rounded. Juliet is not well-rounded.,Juliet is well-rounded,0
+640,1,Kianna is not conscientious or Juliet is not well-rounded. Juliet is not well-rounded.,Juliet is not well-rounded,1
+641,1,Lexus is well-developed or Eliana is not inconsiderate. Eliana is inconsiderate.,Lexus is well-developed,1
+642,1,Lexus is well-developed or Eliana is not inconsiderate. Eliana is inconsiderate.,Lexus is not well-developed,0
+643,1,Lexus is well-developed or Eliana is not inconsiderate. Eliana is inconsiderate.,Eliana is inconsiderate,1
+644,1,Lexus is well-developed or Eliana is not inconsiderate. Eliana is inconsiderate.,Eliana is not inconsiderate,0
+645,0,Either Myah is well-respected or Kennedy is impressionable. Myah is not well-respected.,Myah is well-respected,0
+646,0,Either Myah is well-respected or Kennedy is impressionable. Myah is not well-respected.,Myah is not well-respected,1
+647,0,Either Myah is well-respected or Kennedy is impressionable. Myah is not well-respected.,Kennedy is impressionable,1
+648,0,Either Myah is well-respected or Kennedy is impressionable. Myah is not well-respected.,Kennedy is not impressionable,0
+649,0,Either Brielle is inconsiderate or Jailene is unmotivated. Jailene is not unmotivated.,Brielle is inconsiderate,1
+650,0,Either Brielle is inconsiderate or Jailene is unmotivated. Jailene is not unmotivated.,Brielle is not inconsiderate,0
+651,0,Either Brielle is inconsiderate or Jailene is unmotivated. Jailene is not unmotivated.,Jailene is unmotivated,0
+652,0,Either Brielle is inconsiderate or Jailene is unmotivated. Jailene is not unmotivated.,Jailene is not unmotivated,1
+653,0,Either Madelynn is not level-headed or Mikayla is affectionate. Madelynn is not level-headed.,Madelynn is level-headed,0
+654,0,Either Madelynn is not level-headed or Mikayla is affectionate. Madelynn is not level-headed.,Madelynn is not level-headed,1
+655,0,Either Madelynn is not level-headed or Mikayla is affectionate. Madelynn is not level-headed.,Mikayla is affectionate,0
+656,0,Either Madelynn is not level-headed or Mikayla is affectionate. Madelynn is not level-headed.,Mikayla is not affectionate,1
+657,1,Daijah is not inconsiderate or Angeline is inconsiderate. Angeline is not inconsiderate.,Daijah is inconsiderate,0
+658,1,Daijah is not inconsiderate or Angeline is inconsiderate. Angeline is not inconsiderate.,Daijah is not inconsiderate,1
+659,1,Daijah is not inconsiderate or Angeline is inconsiderate. Angeline is not inconsiderate.,Angeline is inconsiderate,0
+660,1,Daijah is not inconsiderate or Angeline is inconsiderate. Angeline is not inconsiderate.,Angeline is not inconsiderate,1
+661,1,Evelyn is enterprising or Katelyn is not below average. Evelyn is enterprising.,Evelyn is enterprising,1
+662,1,Evelyn is enterprising or Katelyn is not below average. Evelyn is enterprising.,Evelyn is not enterprising,0
+663,1,Evelyn is enterprising or Katelyn is not below average. Evelyn is enterprising.,Katelyn is below,1
+664,1,Evelyn is enterprising or Katelyn is not below average. Evelyn is enterprising.,Katelyn is not below average,1
+665,0,Either Antonia is not inexperienced or Kinsley is sophisticated. Antonia is not inexperienced.,Antonia is inexperienced,0
+666,0,Either Antonia is not inexperienced or Kinsley is sophisticated. Antonia is not inexperienced.,Antonia is not inexperienced,1
+667,0,Either Antonia is not inexperienced or Kinsley is sophisticated. Antonia is not inexperienced.,Kinsley is sophisticated,0
+668,0,Either Antonia is not inexperienced or Kinsley is sophisticated. Antonia is not inexperienced.,Kinsley is not sophisticated,1
+669,1,Brenna is not apprehensive or Daniela is not sophisticated. Brenna is not apprehensive.,Brenna is apprehensive,0
+670,1,Brenna is not apprehensive or Daniela is not sophisticated. Brenna is not apprehensive.,Brenna is not apprehensive,1
+671,1,Brenna is not apprehensive or Daniela is not sophisticated. Brenna is not apprehensive.,Daniela is sophisticated,1
+672,1,Brenna is not apprehensive or Daniela is not sophisticated. Brenna is not apprehensive.,Daniela is not sophisticated,1
+673,0,Either Tiara is cantankerous or Jacqueline is well-behaved. Tiara is cantankerous.,Tiara is cantankerous,1
+674,0,Either Tiara is cantankerous or Jacqueline is well-behaved. Tiara is cantankerous.,Tiara is not cantankerous,0
+675,0,Either Tiara is cantankerous or Jacqueline is well-behaved. Tiara is cantankerous.,Jacqueline is well-behaved,0
+676,0,Either Tiara is cantankerous or Jacqueline is well-behaved. Tiara is cantankerous.,Jacqueline is not well-behaved,1
+677,1,Desiree is not above average or Janiya is not below average. Janiya is not below average.,Desiree is above,1
+678,1,Desiree is not above average or Janiya is not below average. Janiya is not below average.,Desiree is not above average,1
+679,1,Desiree is not above average or Janiya is not below average. Janiya is not below average.,Janiya is below,0
+680,1,Desiree is not above average or Janiya is not below average. Janiya is not below average.,Janiya is not below average,1
+681,0,Either Lilliana is well-intentioned or Mikayla is impressionable. Lilliana is well-intentioned.,Lilliana is well-intentioned,1
+682,0,Either Lilliana is well-intentioned or Mikayla is impressionable. Lilliana is well-intentioned.,Lilliana is not well-intentioned,0
+683,0,Either Lilliana is well-intentioned or Mikayla is impressionable. Lilliana is well-intentioned.,Mikayla is impressionable,0
+684,0,Either Lilliana is well-intentioned or Mikayla is impressionable. Lilliana is well-intentioned.,Mikayla is not impressionable,1
+685,0,Either Princess is enterprising or Margaret is plain-speaking. Margaret is plain-speaking.,Princess is enterprising,0
+686,0,Either Princess is enterprising or Margaret is plain-speaking. Margaret is plain-speaking.,Princess is not enterprising,1
+687,0,Either Princess is enterprising or Margaret is plain-speaking. Margaret is plain-speaking.,Margaret is plain-speaking,1
+688,0,Either Princess is enterprising or Margaret is plain-speaking. Margaret is plain-speaking.,Margaret is not plain-speaking,0
+689,0,Either Danica is not old-fashioned or Denisse is not short-tempered. Denisse is not short-tempered.,Danica is old-fashioned,1
+690,0,Either Danica is not old-fashioned or Denisse is not short-tempered. Denisse is not short-tempered.,Danica is not old-fashioned,0
+691,0,Either Danica is not old-fashioned or Denisse is not short-tempered. Denisse is not short-tempered.,Denisse is short-tempered,0
+692,0,Either Danica is not old-fashioned or Denisse is not short-tempered. Denisse is not short-tempered.,Denisse is not short-tempered,1
+693,1,Kaitlyn is well-behaved or Tiffany is not hypercritical. Kaitlyn is not well-behaved.,Kaitlyn is well-behaved,0
+694,1,Kaitlyn is well-behaved or Tiffany is not hypercritical. Kaitlyn is not well-behaved.,Kaitlyn is not well-behaved,1
+695,1,Kaitlyn is well-behaved or Tiffany is not hypercritical. Kaitlyn is not well-behaved.,Tiffany is hypercritical,0
+696,1,Kaitlyn is well-behaved or Tiffany is not hypercritical. Kaitlyn is not well-behaved.,Tiffany is not hypercritical,1
+697,0,Either Marisol is self-assured or Aylin is affectionate. Aylin is not affectionate.,Marisol is self-assured,1
+698,0,Either Marisol is self-assured or Aylin is affectionate. Aylin is not affectionate.,Marisol is not self-assured,0
+699,0,Either Marisol is self-assured or Aylin is affectionate. Aylin is not affectionate.,Aylin is affectionate,0
+700,0,Either Marisol is self-assured or Aylin is affectionate. Aylin is not affectionate.,Aylin is not affectionate,1
+701,1,Mireya is undependable or Kala is not inexperienced. Kala is not inexperienced.,Mireya is undependable,1
+702,1,Mireya is undependable or Kala is not inexperienced. Kala is not inexperienced.,Mireya is not undependable,1
+703,1,Mireya is undependable or Kala is not inexperienced. Kala is not inexperienced.,Kala is inexperienced,0
+704,1,Mireya is undependable or Kala is not inexperienced. Kala is not inexperienced.,Kala is not inexperienced,1
+705,0,Either Sarai is not impressionable or Ryan is not warmhearted. Sarai is not impressionable.,Sarai is impressionable,0
+706,0,Either Sarai is not impressionable or Ryan is not warmhearted. Sarai is not impressionable.,Sarai is not impressionable,1
+707,0,Either Sarai is not impressionable or Ryan is not warmhearted. Sarai is not impressionable.,Ryan is warmhearted,1
+708,0,Either Sarai is not impressionable or Ryan is not warmhearted. Sarai is not impressionable.,Ryan is not warmhearted,0
+709,1,Rosemary is apprehensive or Juliana is not supercilious. Rosemary is apprehensive.,Rosemary is apprehensive,1
+710,1,Rosemary is apprehensive or Juliana is not supercilious. Rosemary is apprehensive.,Rosemary is not apprehensive,0
+711,1,Rosemary is apprehensive or Juliana is not supercilious. Rosemary is apprehensive.,Juliana is supercilious,1
+712,1,Rosemary is apprehensive or Juliana is not supercilious. Rosemary is apprehensive.,Juliana is not supercilious,1
+713,0,Either Sadie is below average or Brooklyn is disagreeable. Sadie is below average.,Sadie is below average,1
+714,0,Either Sadie is below average or Brooklyn is disagreeable. Sadie is below average.,Sadie is not below,0
+715,0,Either Sadie is below average or Brooklyn is disagreeable. Sadie is below average.,Brooklyn is disagreeable,0
+716,0,Either Sadie is below average or Brooklyn is disagreeable. Sadie is below average.,Brooklyn is not disagreeable,1
+717,1,Lucia is level-headed or Cloe is not well-developed. Cloe is not well-developed.,Lucia is level-headed,1
+718,1,Lucia is level-headed or Cloe is not well-developed. Cloe is not well-developed.,Lucia is not level-headed,1
+719,1,Lucia is level-headed or Cloe is not well-developed. Cloe is not well-developed.,Cloe is well-developed,0
+720,1,Lucia is level-headed or Cloe is not well-developed. Cloe is not well-developed.,Cloe is not well-developed,1
+721,1,Angelina is not inconsistent or Cora is below average. Cora is not below.,Angelina is inconsistent,0
+722,1,Angelina is not inconsistent or Cora is below average. Cora is not below.,Angelina is not inconsistent,1
+723,1,Angelina is not inconsistent or Cora is below average. Cora is not below.,Cora is below average,0
+724,1,Angelina is not inconsistent or Cora is below average. Cora is not below.,Cora is not below,1
+725,0,Either Jayda is not affectionate or Ingrid is not indefatigable. Jayda is not affectionate.,Jayda is affectionate,0
+726,0,Either Jayda is not affectionate or Ingrid is not indefatigable. Jayda is not affectionate.,Jayda is not affectionate,1
+727,0,Either Jayda is not affectionate or Ingrid is not indefatigable. Jayda is not affectionate.,Ingrid is indefatigable,1
+728,0,Either Jayda is not affectionate or Ingrid is not indefatigable. Jayda is not affectionate.,Ingrid is not indefatigable,0
+729,1,Jordan is ostentatious or Lia is not absent-minded. Lia is absent-minded.,Jordan is ostentatious,1
+730,1,Jordan is ostentatious or Lia is not absent-minded. Lia is absent-minded.,Jordan is not ostentatious,0
+731,1,Jordan is ostentatious or Lia is not absent-minded. Lia is absent-minded.,Lia is absent-minded,1
+732,1,Jordan is ostentatious or Lia is not absent-minded. Lia is absent-minded.,Lia is not absent-minded,0
+733,1,Carlie is imperturbable or Dulce is quick-tempered. Dulce is quick-tempered.,Carlie is imperturbable,1
+734,1,Carlie is imperturbable or Dulce is quick-tempered. Dulce is quick-tempered.,Carlie is not imperturbable,1
+735,1,Carlie is imperturbable or Dulce is quick-tempered. Dulce is quick-tempered.,Dulce is quick-tempered,1
+736,1,Carlie is imperturbable or Dulce is quick-tempered. Dulce is quick-tempered.,Dulce is not quick-tempered,0
+737,1,Yessenia is below average or Gabrielle is not unsophisticated. Gabrielle is unsophisticated.,Yessenia is below average,1
+738,1,Yessenia is below average or Gabrielle is not unsophisticated. Gabrielle is unsophisticated.,Yessenia is not below,0
+739,1,Yessenia is below average or Gabrielle is not unsophisticated. Gabrielle is unsophisticated.,Gabrielle is unsophisticated,1
+740,1,Yessenia is below average or Gabrielle is not unsophisticated. Gabrielle is unsophisticated.,Gabrielle is not unsophisticated,0
+741,0,Either Yasmeen is ostentatious or Scarlett is cantankerous. Yasmeen is not ostentatious.,Yasmeen is ostentatious,0
+742,0,Either Yasmeen is ostentatious or Scarlett is cantankerous. Yasmeen is not ostentatious.,Yasmeen is not ostentatious,1
+743,0,Either Yasmeen is ostentatious or Scarlett is cantankerous. Yasmeen is not ostentatious.,Scarlett is cantankerous,1
+744,0,Either Yasmeen is ostentatious or Scarlett is cantankerous. Yasmeen is not ostentatious.,Scarlett is not cantankerous,0
+745,0,Either Alejandra is not inexperienced or Raven is well-intentioned. Raven is not well-intentioned.,Alejandra is inexperienced,0
+746,0,Either Alejandra is not inexperienced or Raven is well-intentioned. Raven is not well-intentioned.,Alejandra is not inexperienced,1
+747,0,Either Alejandra is not inexperienced or Raven is well-intentioned. Raven is not well-intentioned.,Raven is well-intentioned,0
+748,0,Either Alejandra is not inexperienced or Raven is well-intentioned. Raven is not well-intentioned.,Raven is not well-intentioned,1
+749,0,Either Felicia is not well-rounded or Jasmyn is above average. Jasmyn is above average.,Felicia is well-rounded,1
+750,0,Either Felicia is not well-rounded or Jasmyn is above average. Jasmyn is above average.,Felicia is not well-rounded,0
+751,0,Either Felicia is not well-rounded or Jasmyn is above average. Jasmyn is above average.,Jasmyn is above average,1
+752,0,Either Felicia is not well-rounded or Jasmyn is above average. Jasmyn is above average.,Jasmyn is not above,0
+753,1,Luisa is not inexperienced or Autumn is not unimaginative. Luisa is not inexperienced.,Luisa is inexperienced,0
+754,1,Luisa is not inexperienced or Autumn is not unimaginative. Luisa is not inexperienced.,Luisa is not inexperienced,1
+755,1,Luisa is not inexperienced or Autumn is not unimaginative. Luisa is not inexperienced.,Autumn is unimaginative,1
+756,1,Luisa is not inexperienced or Autumn is not unimaginative. Luisa is not inexperienced.,Autumn is not unimaginative,1
+757,0,Either Ashleigh is cantankerous or Josie is not inexperienced. Ashleigh is cantankerous.,Ashleigh is cantankerous,1
+758,0,Either Ashleigh is cantankerous or Josie is not inexperienced. Ashleigh is cantankerous.,Ashleigh is not cantankerous,0
+759,0,Either Ashleigh is cantankerous or Josie is not inexperienced. Ashleigh is cantankerous.,Josie is inexperienced,1
+760,0,Either Ashleigh is cantankerous or Josie is not inexperienced. Ashleigh is cantankerous.,Josie is not inexperienced,0
+761,1,Kianna is not old-fashioned or Janie is not absent-minded. Kianna is not old-fashioned.,Kianna is old-fashioned,0
+762,1,Kianna is not old-fashioned or Janie is not absent-minded. Kianna is not old-fashioned.,Kianna is not old-fashioned,1
+763,1,Kianna is not old-fashioned or Janie is not absent-minded. Kianna is not old-fashioned.,Janie is absent-minded,1
+764,1,Kianna is not old-fashioned or Janie is not absent-minded. Kianna is not old-fashioned.,Janie is not absent-minded,1
+765,0,Either Kristy is not cantankerous or Isabelle is not hypercritical. Kristy is not cantankerous.,Kristy is cantankerous,0
+766,0,Either Kristy is not cantankerous or Isabelle is not hypercritical. Kristy is not cantankerous.,Kristy is not cantankerous,1
+767,0,Either Kristy is not cantankerous or Isabelle is not hypercritical. Kristy is not cantankerous.,Isabelle is hypercritical,1
+768,0,Either Kristy is not cantankerous or Isabelle is not hypercritical. Kristy is not cantankerous.,Isabelle is not hypercritical,0
+769,0,Either Melody is undependable or Sloane is not disagreeable. Sloane is not disagreeable.,Melody is undependable,0
+770,0,Either Melody is undependable or Sloane is not disagreeable. Sloane is not disagreeable.,Melody is not undependable,1
+771,0,Either Melody is undependable or Sloane is not disagreeable. Sloane is not disagreeable.,Sloane is disagreeable,0
+772,0,Either Melody is undependable or Sloane is not disagreeable. Sloane is not disagreeable.,Sloane is not disagreeable,1
+773,0,Either Tessa is unmotivated or Beatriz is enterprising. Beatriz is enterprising.,Tessa is unmotivated,0
+774,0,Either Tessa is unmotivated or Beatriz is enterprising. Beatriz is enterprising.,Tessa is not unmotivated,1
+775,0,Either Tessa is unmotivated or Beatriz is enterprising. Beatriz is enterprising.,Beatriz is enterprising,1
+776,0,Either Tessa is unmotivated or Beatriz is enterprising. Beatriz is enterprising.,Beatriz is not enterprising,0
+777,0,Either Kimberlee is well-respected or Kaleigh is ostentatious. Kaleigh is not ostentatious.,Kimberlee is well-respected,1
+778,0,Either Kimberlee is well-respected or Kaleigh is ostentatious. Kaleigh is not ostentatious.,Kimberlee is not well-respected,0
+779,0,Either Kimberlee is well-respected or Kaleigh is ostentatious. Kaleigh is not ostentatious.,Kaleigh is ostentatious,0
+780,0,Either Kimberlee is well-respected or Kaleigh is ostentatious. Kaleigh is not ostentatious.,Kaleigh is not ostentatious,1
+781,1,Maranda is inconsiderate or Gladys is not well-behaved. Gladys is well-behaved.,Maranda is inconsiderate,1
+782,1,Maranda is inconsiderate or Gladys is not well-behaved. Gladys is well-behaved.,Maranda is not inconsiderate,0
+783,1,Maranda is inconsiderate or Gladys is not well-behaved. Gladys is well-behaved.,Gladys is well-behaved,1
+784,1,Maranda is inconsiderate or Gladys is not well-behaved. Gladys is well-behaved.,Gladys is not well-behaved,0
+785,1,Kailey is unmotivated or Victoria is not well-respected. Kailey is unmotivated.,Kailey is unmotivated,1
+786,1,Kailey is unmotivated or Victoria is not well-respected. Kailey is unmotivated.,Kailey is not unmotivated,0
+787,1,Kailey is unmotivated or Victoria is not well-respected. Kailey is unmotivated.,Victoria is well-respected,1
+788,1,Kailey is unmotivated or Victoria is not well-respected. Kailey is unmotivated.,Victoria is not well-respected,1
+789,1,Kya is ostentatious or Taylor is not unsophisticated. Taylor is unsophisticated.,Kya is ostentatious,1
+790,1,Kya is ostentatious or Taylor is not unsophisticated. Taylor is unsophisticated.,Kya is not ostentatious,0
+791,1,Kya is ostentatious or Taylor is not unsophisticated. Taylor is unsophisticated.,Taylor is unsophisticated,1
+792,1,Kya is ostentatious or Taylor is not unsophisticated. Taylor is unsophisticated.,Taylor is not unsophisticated,0
+793,0,Either Gloria is not inexperienced or Mallory is not cantankerous. Gloria is not inexperienced.,Gloria is inexperienced,0
+794,0,Either Gloria is not inexperienced or Mallory is not cantankerous. Gloria is not inexperienced.,Gloria is not inexperienced,1
+795,0,Either Gloria is not inexperienced or Mallory is not cantankerous. Gloria is not inexperienced.,Mallory is cantankerous,1
+796,0,Either Gloria is not inexperienced or Mallory is not cantankerous. Gloria is not inexperienced.,Mallory is not cantankerous,0
+797,0,Either Joyce is not enthusiastic or Macey is not inexperienced. Macey is inexperienced.,Joyce is enthusiastic,0
+798,0,Either Joyce is not enthusiastic or Macey is not inexperienced. Macey is inexperienced.,Joyce is not enthusiastic,1
+799,0,Either Joyce is not enthusiastic or Macey is not inexperienced. Macey is inexperienced.,Macey is inexperienced,1
+800,0,Either Joyce is not enthusiastic or Macey is not inexperienced. Macey is inexperienced.,Macey is not inexperienced,0
+801,0,Either Aileen is not unimaginative or Shianne is not quick-tempered. Aileen is unimaginative.,Aileen is unimaginative,1
+802,0,Either Aileen is not unimaginative or Shianne is not quick-tempered. Aileen is unimaginative.,Aileen is not unimaginative,0
+803,0,Either Aileen is not unimaginative or Shianne is not quick-tempered. Aileen is unimaginative.,Shianne is quick-tempered,0
+804,0,Either Aileen is not unimaginative or Shianne is not quick-tempered. Aileen is unimaginative.,Shianne is not quick-tempered,1
+805,1,Alesha is not absent-minded or Paris is disagreeable. Alesha is not absent-minded.,Alesha is absent-minded,0
+806,1,Alesha is not absent-minded or Paris is disagreeable. Alesha is not absent-minded.,Alesha is not absent-minded,1
+807,1,Alesha is not absent-minded or Paris is disagreeable. Alesha is not absent-minded.,Paris is disagreeable,1
+808,1,Alesha is not absent-minded or Paris is disagreeable. Alesha is not absent-minded.,Paris is not disagreeable,1
+809,0,Either Aimee is not self-assured or Ann is not conscientious. Ann is conscientious.,Aimee is self-assured,0
+810,0,Either Aimee is not self-assured or Ann is not conscientious. Ann is conscientious.,Aimee is not self-assured,1
+811,0,Either Aimee is not self-assured or Ann is not conscientious. Ann is conscientious.,Ann is conscientious,1
+812,0,Either Aimee is not self-assured or Ann is not conscientious. Ann is conscientious.,Ann is not conscientious,0
+813,1,Delia is not supercilious or Destini is not warmhearted. Destini is not warmhearted.,Delia is supercilious,1
+814,1,Delia is not supercilious or Destini is not warmhearted. Destini is not warmhearted.,Delia is not supercilious,1
+815,1,Delia is not supercilious or Destini is not warmhearted. Destini is not warmhearted.,Destini is warmhearted,0
+816,1,Delia is not supercilious or Destini is not warmhearted. Destini is not warmhearted.,Destini is not warmhearted,1
+817,0,Either Deja is not plain-speaking or Carly is not supercilious. Carly is supercilious.,Deja is plain-speaking,0
+818,0,Either Deja is not plain-speaking or Carly is not supercilious. Carly is supercilious.,Deja is not plain-speaking,1
+819,0,Either Deja is not plain-speaking or Carly is not supercilious. Carly is supercilious.,Carly is supercilious,1
+820,0,Either Deja is not plain-speaking or Carly is not supercilious. Carly is supercilious.,Carly is not supercilious,0
+821,0,Either Marcella is not indefatigable or Fiona is well-developed. Marcella is indefatigable.,Marcella is indefatigable,1
+822,0,Either Marcella is not indefatigable or Fiona is well-developed. Marcella is indefatigable.,Marcella is not indefatigable,0
+823,0,Either Marcella is not indefatigable or Fiona is well-developed. Marcella is indefatigable.,Fiona is well-developed,1
+824,0,Either Marcella is not indefatigable or Fiona is well-developed. Marcella is indefatigable.,Fiona is not well-developed,0
+825,1,Kimberly is inconsiderate or Breann is self-assured. Breann is not self-assured.,Kimberly is inconsiderate,1
+826,1,Kimberly is inconsiderate or Breann is self-assured. Breann is not self-assured.,Kimberly is not inconsiderate,0
+827,1,Kimberly is inconsiderate or Breann is self-assured. Breann is not self-assured.,Breann is self-assured,0
+828,1,Kimberly is inconsiderate or Breann is self-assured. Breann is not self-assured.,Breann is not self-assured,1
+829,1,Autumn is absent-minded or Marquita is sophisticated. Marquita is sophisticated.,Autumn is absent-minded,1
+830,1,Autumn is absent-minded or Marquita is sophisticated. Marquita is sophisticated.,Autumn is not absent-minded,1
+831,1,Autumn is absent-minded or Marquita is sophisticated. Marquita is sophisticated.,Marquita is sophisticated,1
+832,1,Autumn is absent-minded or Marquita is sophisticated. Marquita is sophisticated.,Marquita is not sophisticated,0
+833,1,Norah is old-fashioned or Dejah is not self-assured. Norah is not old-fashioned.,Norah is old-fashioned,0
+834,1,Norah is old-fashioned or Dejah is not self-assured. Norah is not old-fashioned.,Norah is not old-fashioned,1
+835,1,Norah is old-fashioned or Dejah is not self-assured. Norah is not old-fashioned.,Dejah is self-assured,0
+836,1,Norah is old-fashioned or Dejah is not self-assured. Norah is not old-fashioned.,Dejah is not self-assured,1
+837,0,Either Eleanor is not inconsistent or Adrienne is not well-intentioned. Eleanor is not inconsistent.,Eleanor is inconsistent,0
+838,0,Either Eleanor is not inconsistent or Adrienne is not well-intentioned. Eleanor is not inconsistent.,Eleanor is not inconsistent,1
+839,0,Either Eleanor is not inconsistent or Adrienne is not well-intentioned. Eleanor is not inconsistent.,Adrienne is well-intentioned,1
+840,0,Either Eleanor is not inconsistent or Adrienne is not well-intentioned. Eleanor is not inconsistent.,Adrienne is not well-intentioned,0
+841,1,Kyla is absent-minded or Kristina is not indefatigable. Kristina is indefatigable.,Kyla is absent-minded,1
+842,1,Kyla is absent-minded or Kristina is not indefatigable. Kristina is indefatigable.,Kyla is not absent-minded,0
+843,1,Kyla is absent-minded or Kristina is not indefatigable. Kristina is indefatigable.,Kristina is indefatigable,1
+844,1,Kyla is absent-minded or Kristina is not indefatigable. Kristina is indefatigable.,Kristina is not indefatigable,0
+845,1,Alex is not undependable or Kellie is not ostentatious. Alex is not undependable.,Alex is undependable,0
+846,1,Alex is not undependable or Kellie is not ostentatious. Alex is not undependable.,Alex is not undependable,1
+847,1,Alex is not undependable or Kellie is not ostentatious. Alex is not undependable.,Kellie is ostentatious,1
+848,1,Alex is not undependable or Kellie is not ostentatious. Alex is not undependable.,Kellie is not ostentatious,1
+849,0,Either Makaila is not inconsiderate or Sienna is not conscientious. Sienna is conscientious.,Makaila is inconsiderate,0
+850,0,Either Makaila is not inconsiderate or Sienna is not conscientious. Sienna is conscientious.,Makaila is not inconsiderate,1
+851,0,Either Makaila is not inconsiderate or Sienna is not conscientious. Sienna is conscientious.,Sienna is conscientious,1
+852,0,Either Makaila is not inconsiderate or Sienna is not conscientious. Sienna is conscientious.,Sienna is not conscientious,0
+853,0,Either Shanna is apprehensive or Jessica is not hypercritical. Shanna is not apprehensive.,Shanna is apprehensive,0
+854,0,Either Shanna is apprehensive or Jessica is not hypercritical. Shanna is not apprehensive.,Shanna is not apprehensive,1
+855,0,Either Shanna is apprehensive or Jessica is not hypercritical. Shanna is not apprehensive.,Jessica is hypercritical,0
+856,0,Either Shanna is apprehensive or Jessica is not hypercritical. Shanna is not apprehensive.,Jessica is not hypercritical,1
+857,1,Shirley is not indefatigable or Sasha is not conscientious. Shirley is indefatigable.,Shirley is indefatigable,1
+858,1,Shirley is not indefatigable or Sasha is not conscientious. Shirley is indefatigable.,Shirley is not indefatigable,0
+859,1,Shirley is not indefatigable or Sasha is not conscientious. Shirley is indefatigable.,Sasha is conscientious,0
+860,1,Shirley is not indefatigable or Sasha is not conscientious. Shirley is indefatigable.,Sasha is not conscientious,1
+861,0,Either Renee is not indefatigable or Kaitlyn is not hypercritical. Renee is indefatigable.,Renee is indefatigable,1
+862,0,Either Renee is not indefatigable or Kaitlyn is not hypercritical. Renee is indefatigable.,Renee is not indefatigable,0
+863,0,Either Renee is not indefatigable or Kaitlyn is not hypercritical. Renee is indefatigable.,Kaitlyn is hypercritical,0
+864,0,Either Renee is not indefatigable or Kaitlyn is not hypercritical. Renee is indefatigable.,Kaitlyn is not hypercritical,1
+865,0,Either Rebecca is supercilious or Essence is not inconsiderate. Essence is not inconsiderate.,Rebecca is supercilious,0
+866,0,Either Rebecca is supercilious or Essence is not inconsiderate. Essence is not inconsiderate.,Rebecca is not supercilious,1
+867,0,Either Rebecca is supercilious or Essence is not inconsiderate. Essence is not inconsiderate.,Essence is inconsiderate,0
+868,0,Either Rebecca is supercilious or Essence is not inconsiderate. Essence is not inconsiderate.,Essence is not inconsiderate,1
+869,1,Josephine is not well-behaved or Nicolette is not well-intentioned. Nicolette is well-intentioned.,Josephine is well-behaved,0
+870,1,Josephine is not well-behaved or Nicolette is not well-intentioned. Nicolette is well-intentioned.,Josephine is not well-behaved,1
+871,1,Josephine is not well-behaved or Nicolette is not well-intentioned. Nicolette is well-intentioned.,Nicolette is well-intentioned,1
+872,1,Josephine is not well-behaved or Nicolette is not well-intentioned. Nicolette is well-intentioned.,Nicolette is not well-intentioned,0
+873,1,Catalina is old-fashioned or Kenisha is not unimaginative. Kenisha is not unimaginative.,Catalina is old-fashioned,1
+874,1,Catalina is old-fashioned or Kenisha is not unimaginative. Kenisha is not unimaginative.,Catalina is not old-fashioned,1
+875,1,Catalina is old-fashioned or Kenisha is not unimaginative. Kenisha is not unimaginative.,Kenisha is unimaginative,0
+876,1,Catalina is old-fashioned or Kenisha is not unimaginative. Kenisha is not unimaginative.,Kenisha is not unimaginative,1
+877,1,Kristine is disagreeable or Amber is not imperturbable. Kristine is not disagreeable.,Kristine is disagreeable,0
+878,1,Kristine is disagreeable or Amber is not imperturbable. Kristine is not disagreeable.,Kristine is not disagreeable,1
+879,1,Kristine is disagreeable or Amber is not imperturbable. Kristine is not disagreeable.,Amber is imperturbable,0
+880,1,Kristine is disagreeable or Amber is not imperturbable. Kristine is not disagreeable.,Amber is not imperturbable,1
+881,0,Either Tiana is inconsiderate or Kathy is conscientious. Tiana is inconsiderate.,Tiana is inconsiderate,1
+882,0,Either Tiana is inconsiderate or Kathy is conscientious. Tiana is inconsiderate.,Tiana is not inconsiderate,0
+883,0,Either Tiana is inconsiderate or Kathy is conscientious. Tiana is inconsiderate.,Kathy is conscientious,0
+884,0,Either Tiana is inconsiderate or Kathy is conscientious. Tiana is inconsiderate.,Kathy is not conscientious,1
+885,0,Either Lyndsey is enthusiastic or Baylee is not well-rounded. Lyndsey is not enthusiastic.,Lyndsey is enthusiastic,0
+886,0,Either Lyndsey is enthusiastic or Baylee is not well-rounded. Lyndsey is not enthusiastic.,Lyndsey is not enthusiastic,1
+887,0,Either Lyndsey is enthusiastic or Baylee is not well-rounded. Lyndsey is not enthusiastic.,Baylee is well-rounded,0
+888,0,Either Lyndsey is enthusiastic or Baylee is not well-rounded. Lyndsey is not enthusiastic.,Baylee is not well-rounded,1
+889,1,Destiny is not inconsiderate or Julie is well-respected. Julie is not well-respected.,Destiny is inconsiderate,0
+890,1,Destiny is not inconsiderate or Julie is well-respected. Julie is not well-respected.,Destiny is not inconsiderate,1
+891,1,Destiny is not inconsiderate or Julie is well-respected. Julie is not well-respected.,Julie is well-respected,0
+892,1,Destiny is not inconsiderate or Julie is well-respected. Julie is not well-respected.,Julie is not well-respected,1
+893,0,Either Felisha is not above average or Corrine is enterprising. Corrine is not enterprising.,Felisha is above,0
+894,0,Either Felisha is not above average or Corrine is enterprising. Corrine is not enterprising.,Felisha is not above average,1
+895,0,Either Felisha is not above average or Corrine is enterprising. Corrine is not enterprising.,Corrine is enterprising,0
+896,0,Either Felisha is not above average or Corrine is enterprising. Corrine is not enterprising.,Corrine is not enterprising,1
+897,0,Either Sandra is not unsophisticated or Briana is well-intentioned. Briana is well-intentioned.,Sandra is unsophisticated,1
+898,0,Either Sandra is not unsophisticated or Briana is well-intentioned. Briana is well-intentioned.,Sandra is not unsophisticated,0
+899,0,Either Sandra is not unsophisticated or Briana is well-intentioned. Briana is well-intentioned.,Briana is well-intentioned,1
+900,0,Either Sandra is not unsophisticated or Briana is well-intentioned. Briana is well-intentioned.,Briana is not well-intentioned,0
+901,1,Leanna is even-tempered or Jayla is level-headed. Jayla is not level-headed.,Leanna is even-tempered,1
+902,1,Leanna is even-tempered or Jayla is level-headed. Jayla is not level-headed.,Leanna is not even-tempered,0
+903,1,Leanna is even-tempered or Jayla is level-headed. Jayla is not level-headed.,Jayla is level-headed,0
+904,1,Leanna is even-tempered or Jayla is level-headed. Jayla is not level-headed.,Jayla is not level-headed,1
+905,0,Either Calista is not imperturbable or Aspen is inconsiderate. Calista is imperturbable.,Calista is imperturbable,1
+906,0,Either Calista is not imperturbable or Aspen is inconsiderate. Calista is imperturbable.,Calista is not imperturbable,0
+907,0,Either Calista is not imperturbable or Aspen is inconsiderate. Calista is imperturbable.,Aspen is inconsiderate,1
+908,0,Either Calista is not imperturbable or Aspen is inconsiderate. Calista is imperturbable.,Aspen is not inconsiderate,0
+909,0,Either Asia is conscientious or Rebekah is not even-tempered. Asia is conscientious.,Asia is conscientious,1
+910,0,Either Asia is conscientious or Rebekah is not even-tempered. Asia is conscientious.,Asia is not conscientious,0
+911,0,Either Asia is conscientious or Rebekah is not even-tempered. Asia is conscientious.,Rebekah is even-tempered,1
+912,0,Either Asia is conscientious or Rebekah is not even-tempered. Asia is conscientious.,Rebekah is not even-tempered,0
+913,1,Arielle is conscientious or Cierra is disagreeable. Arielle is not conscientious.,Arielle is conscientious,0
+914,1,Arielle is conscientious or Cierra is disagreeable. Arielle is not conscientious.,Arielle is not conscientious,1
+915,1,Arielle is conscientious or Cierra is disagreeable. Arielle is not conscientious.,Cierra is disagreeable,1
+916,1,Arielle is conscientious or Cierra is disagreeable. Arielle is not conscientious.,Cierra is not disagreeable,0
+917,1,Briana is conscientious or Anne is not absent-minded. Anne is absent-minded.,Briana is conscientious,1
+918,1,Briana is conscientious or Anne is not absent-minded. Anne is absent-minded.,Briana is not conscientious,0
+919,1,Briana is conscientious or Anne is not absent-minded. Anne is absent-minded.,Anne is absent-minded,1
+920,1,Briana is conscientious or Anne is not absent-minded. Anne is absent-minded.,Anne is not absent-minded,0
+921,0,Either Jalisa is apprehensive or Patience is sophisticated. Patience is sophisticated.,Jalisa is apprehensive,0
+922,0,Either Jalisa is apprehensive or Patience is sophisticated. Patience is sophisticated.,Jalisa is not apprehensive,1
+923,0,Either Jalisa is apprehensive or Patience is sophisticated. Patience is sophisticated.,Patience is sophisticated,1
+924,0,Either Jalisa is apprehensive or Patience is sophisticated. Patience is sophisticated.,Patience is not sophisticated,0
+925,0,Either Maria is not indefatigable or Payton is well-rounded. Payton is not well-rounded.,Maria is indefatigable,0
+926,0,Either Maria is not indefatigable or Payton is well-rounded. Payton is not well-rounded.,Maria is not indefatigable,1
+927,0,Either Maria is not indefatigable or Payton is well-rounded. Payton is not well-rounded.,Payton is well-rounded,0
+928,0,Either Maria is not indefatigable or Payton is well-rounded. Payton is not well-rounded.,Payton is not well-rounded,1
+929,0,Either Tatum is warmhearted or Eileen is not supercilious. Tatum is not warmhearted.,Tatum is warmhearted,0
+930,0,Either Tatum is warmhearted or Eileen is not supercilious. Tatum is not warmhearted.,Tatum is not warmhearted,1
+931,0,Either Tatum is warmhearted or Eileen is not supercilious. Tatum is not warmhearted.,Eileen is supercilious,0
+932,0,Either Tatum is warmhearted or Eileen is not supercilious. Tatum is not warmhearted.,Eileen is not supercilious,1
+933,1,Mikayla is not enterprising or Wanda is inexperienced. Wanda is inexperienced.,Mikayla is enterprising,1
+934,1,Mikayla is not enterprising or Wanda is inexperienced. Wanda is inexperienced.,Mikayla is not enterprising,1
+935,1,Mikayla is not enterprising or Wanda is inexperienced. Wanda is inexperienced.,Wanda is inexperienced,1
+936,1,Mikayla is not enterprising or Wanda is inexperienced. Wanda is inexperienced.,Wanda is not inexperienced,0
+937,1,Delia is short-tempered or Valencia is not impressionable. Delia is not short-tempered.,Delia is short-tempered,0
+938,1,Delia is short-tempered or Valencia is not impressionable. Delia is not short-tempered.,Delia is not short-tempered,1
+939,1,Delia is short-tempered or Valencia is not impressionable. Delia is not short-tempered.,Valencia is impressionable,0
+940,1,Delia is short-tempered or Valencia is not impressionable. Delia is not short-tempered.,Valencia is not impressionable,1
+941,1,Lyndsay is enthusiastic or Hailee is not indefatigable. Lyndsay is enthusiastic.,Lyndsay is enthusiastic,1
+942,1,Lyndsay is enthusiastic or Hailee is not indefatigable. Lyndsay is enthusiastic.,Lyndsay is not enthusiastic,0
+943,1,Lyndsay is enthusiastic or Hailee is not indefatigable. Lyndsay is enthusiastic.,Hailee is indefatigable,1
+944,1,Lyndsay is enthusiastic or Hailee is not indefatigable. Lyndsay is enthusiastic.,Hailee is not indefatigable,1
+945,0,Either Ryleigh is not below average or Dalia is well-developed. Ryleigh is not below average.,Ryleigh is below,0
+946,0,Either Ryleigh is not below average or Dalia is well-developed. Ryleigh is not below average.,Ryleigh is not below average,1
+947,0,Either Ryleigh is not below average or Dalia is well-developed. Ryleigh is not below average.,Dalia is well-developed,0
+948,0,Either Ryleigh is not below average or Dalia is well-developed. Ryleigh is not below average.,Dalia is not well-developed,1
+949,1,Kara is hypercritical or Eva is impressionable. Kara is hypercritical.,Kara is hypercritical,1
+950,1,Kara is hypercritical or Eva is impressionable. Kara is hypercritical.,Kara is not hypercritical,0
+951,1,Kara is hypercritical or Eva is impressionable. Kara is hypercritical.,Eva is impressionable,1
+952,1,Kara is hypercritical or Eva is impressionable. Kara is hypercritical.,Eva is not impressionable,1
+953,1,Georgina is condescending or Lindsey is not even-tempered. Georgina is condescending.,Georgina is condescending,1
+954,1,Georgina is condescending or Lindsey is not even-tempered. Georgina is condescending.,Georgina is not condescending,0
+955,1,Georgina is condescending or Lindsey is not even-tempered. Georgina is condescending.,Lindsey is even-tempered,1
+956,1,Georgina is condescending or Lindsey is not even-tempered. Georgina is condescending.,Lindsey is not even-tempered,1
+957,0,Either Breana is indefatigable or Kenna is ostentatious. Kenna is ostentatious.,Breana is indefatigable,0
+958,0,Either Breana is indefatigable or Kenna is ostentatious. Kenna is ostentatious.,Breana is not indefatigable,1
+959,0,Either Breana is indefatigable or Kenna is ostentatious. Kenna is ostentatious.,Kenna is ostentatious,1
+960,0,Either Breana is indefatigable or Kenna is ostentatious. Kenna is ostentatious.,Kenna is not ostentatious,0
+961,0,Either Lucille is not even-tempered or Maya is not well-behaved. Lucille is not even-tempered.,Lucille is even-tempered,0
+962,0,Either Lucille is not even-tempered or Maya is not well-behaved. Lucille is not even-tempered.,Lucille is not even-tempered,1
+963,0,Either Lucille is not even-tempered or Maya is not well-behaved. Lucille is not even-tempered.,Maya is well-behaved,1
+964,0,Either Lucille is not even-tempered or Maya is not well-behaved. Lucille is not even-tempered.,Maya is not well-behaved,0
+965,1,Sylvia is well-intentioned or Brianne is disagreeable. Sylvia is not well-intentioned.,Sylvia is well-intentioned,0
+966,1,Sylvia is well-intentioned or Brianne is disagreeable. Sylvia is not well-intentioned.,Sylvia is not well-intentioned,1
+967,1,Sylvia is well-intentioned or Brianne is disagreeable. Sylvia is not well-intentioned.,Brianne is disagreeable,1
+968,1,Sylvia is well-intentioned or Brianne is disagreeable. Sylvia is not well-intentioned.,Brianne is not disagreeable,0
+969,1,Molly is not undependable or Silvia is apprehensive. Molly is not undependable.,Molly is undependable,0
+970,1,Molly is not undependable or Silvia is apprehensive. Molly is not undependable.,Molly is not undependable,1
+971,1,Molly is not undependable or Silvia is apprehensive. Molly is not undependable.,Silvia is apprehensive,1
+972,1,Molly is not undependable or Silvia is apprehensive. Molly is not undependable.,Silvia is not apprehensive,1
+973,1,Kaia is not cantankerous or Tina is not inexperienced. Tina is inexperienced.,Kaia is cantankerous,0
+974,1,Kaia is not cantankerous or Tina is not inexperienced. Tina is inexperienced.,Kaia is not cantankerous,1
+975,1,Kaia is not cantankerous or Tina is not inexperienced. Tina is inexperienced.,Tina is inexperienced,1
+976,1,Kaia is not cantankerous or Tina is not inexperienced. Tina is inexperienced.,Tina is not inexperienced,0
+977,0,Either Grace is not inconsiderate or Virginia is well-behaved. Grace is inconsiderate.,Grace is inconsiderate,1
+978,0,Either Grace is not inconsiderate or Virginia is well-behaved. Grace is inconsiderate.,Grace is not inconsiderate,0
+979,0,Either Grace is not inconsiderate or Virginia is well-behaved. Grace is inconsiderate.,Virginia is well-behaved,1
+980,0,Either Grace is not inconsiderate or Virginia is well-behaved. Grace is inconsiderate.,Virginia is not well-behaved,0
+981,0,Either Yvonne is not disagreeable or Alisa is warmhearted. Yvonne is not disagreeable.,Yvonne is disagreeable,0
+982,0,Either Yvonne is not disagreeable or Alisa is warmhearted. Yvonne is not disagreeable.,Yvonne is not disagreeable,1
+983,0,Either Yvonne is not disagreeable or Alisa is warmhearted. Yvonne is not disagreeable.,Alisa is warmhearted,0
+984,0,Either Yvonne is not disagreeable or Alisa is warmhearted. Yvonne is not disagreeable.,Alisa is not warmhearted,1
+985,1,Christy is not supercilious or Makenna is not undependable. Christy is not supercilious.,Christy is supercilious,0
+986,1,Christy is not supercilious or Makenna is not undependable. Christy is not supercilious.,Christy is not supercilious,1
+987,1,Christy is not supercilious or Makenna is not undependable. Christy is not supercilious.,Makenna is undependable,1
+988,1,Christy is not supercilious or Makenna is not undependable. Christy is not supercilious.,Makenna is not undependable,1
+989,1,Carla is not apprehensive or Reyna is supercilious. Reyna is not supercilious.,Carla is apprehensive,0
+990,1,Carla is not apprehensive or Reyna is supercilious. Reyna is not supercilious.,Carla is not apprehensive,1
+991,1,Carla is not apprehensive or Reyna is supercilious. Reyna is not supercilious.,Reyna is supercilious,0
+992,1,Carla is not apprehensive or Reyna is supercilious. Reyna is not supercilious.,Reyna is not supercilious,1
+993,1,Lauren is not indefatigable or Kayleigh is not well-developed. Lauren is indefatigable.,Lauren is indefatigable,1
+994,1,Lauren is not indefatigable or Kayleigh is not well-developed. Lauren is indefatigable.,Lauren is not indefatigable,0
+995,1,Lauren is not indefatigable or Kayleigh is not well-developed. Lauren is indefatigable.,Kayleigh is well-developed,0
+996,1,Lauren is not indefatigable or Kayleigh is not well-developed. Lauren is indefatigable.,Kayleigh is not well-developed,1
+997,0,Either Marilyn is level-headed or Carley is plain-speaking. Carley is plain-speaking.,Marilyn is level-headed,0
+998,0,Either Marilyn is level-headed or Carley is plain-speaking. Carley is plain-speaking.,Marilyn is not level-headed,1
+999,0,Either Marilyn is level-headed or Carley is plain-speaking. Carley is plain-speaking.,Carley is plain-speaking,1
+1000,0,Either Marilyn is level-headed or Carley is plain-speaking. Carley is plain-speaking.,Carley is not plain-speaking,0
